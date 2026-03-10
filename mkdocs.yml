@@ -1,6 +1,5 @@
 site_name: CNR-INM MAO Research Group
 site_description: Multidisciplinary Analysis & Optimization Research Group
-site_url: https://cnr-inm-mao.github.io
 
 theme:
   name: material
@@ -8,6 +7,9 @@ theme:
 nav:
   - Home: index.md
   - Research: research.md
+  - People: people.md
+  - Projects: projects.md
   - Software: software.md
   - Publications: publications.md
+  - Datasets: datasets.md
   - Contact: contact.md
