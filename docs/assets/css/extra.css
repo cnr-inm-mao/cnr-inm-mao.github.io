@@ -137,3 +137,11 @@
   font-weight: 600;
   letter-spacing: -0.02em;
 }
+
+.md-header {
+  background-color: #0e1a2b;
+}
+
+.md-tabs {
+  background-color: #0e1a2b;
+}
