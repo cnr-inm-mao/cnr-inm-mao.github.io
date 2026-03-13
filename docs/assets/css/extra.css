@@ -1,0 +1,139 @@
+:root {
+  --mao-primary: #243746;
+  --mao-accent: #1f7a8c;
+  --mao-accent-soft: #dceff2;
+  --mao-bg-soft: #f6f8fa;
+  --mao-card-border: #d9e1e8;
+  --mao-text-soft: #5f6b76;
+  --mao-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
+  --mao-radius: 18px;
+}
+
+/* Hero */
+
+.hero {
+  padding: 2.5rem 0 1.5rem 0;
+}
+
+.hero-text h1 {
+  margin-bottom: 0.6rem;
+  font-size: 2.2rem;
+  line-height: 1.15;
+}
+
+.hero-text p {
+  max-width: 850px;
+  font-size: 1.05rem;
+  color: var(--mao-text-soft);
+}
+
+.hero-buttons {
+  margin-top: 1.25rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+/* Card grids */
+
+.card-grid,
+.people-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 1.5rem 0;
+}
+
+.info-card,
+.person-card {
+  background: white;
+  border: 1px solid var(--mao-card-border);
+  border-radius: var(--mao-radius);
+  padding: 1.1rem 1.15rem;
+  box-shadow: var(--mao-shadow);
+}
+
+.info-card h3,
+.person-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.45rem;
+  font-size: 1.05rem;
+}
+
+.info-card p,
+.person-card p {
+  margin-bottom: 0.6rem;
+}
+
+.person-role {
+  color: var(--mao-accent);
+  font-weight: 600;
+  margin-top: -0.2rem;
+}
+
+/* Headings */
+
+.md-typeset h1 {
+  font-weight: 750;
+  letter-spacing: -0.02em;
+}
+
+.md-typeset h2 {
+  margin-top: 2rem;
+  font-weight: 700;
+}
+
+/* Links */
+
+.md-typeset a {
+  font-weight: 500;
+}
+
+/* Buttons */
+
+.md-button {
+  border-radius: 999px;
+}
+
+/* Softer content blocks */
+
+.md-typeset table:not([class]) {
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+/* Optional subtle page width feeling */
+
+.md-content__inner {
+  padding-bottom: 3rem;
+}
+
+/* Make lists breathe a bit */
+
+.md-typeset ul li,
+.md-typeset ol li {
+  margin-bottom: 0.2rem;
+}
+
+/* Mobile refinement */
+
+@media screen and (max-width: 768px) {
+  .hero-text h1 {
+    font-size: 1.8rem;
+  }
+
+  .hero-text p {
+    font-size: 1rem;
+  }
+}
+
+/* Logo navbar */
+
+.md-header__button.md-logo img {
+  height: 36px;
+}
+
+.md-header__title {
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}

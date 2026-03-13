@@ -6,6 +6,10 @@ use_directory_urls: true
 theme:
   name: material
   language: en
+
+  logo: assets/logos/logo.png
+  favicon: assets/logos/logo-icon.png
+
   features:
     - navigation.tabs
     - navigation.sections

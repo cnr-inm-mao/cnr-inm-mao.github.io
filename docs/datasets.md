@@ -1,14 +1,49 @@
 # Datasets
 
-Open datasets developed by the MAO Research Group.
+## Overview
 
-## Bio-Inspired Underwater Glider Benchmark Dataset
+This page collects datasets used for dimensionality reduction, optimization benchmarks, and reproducible computational studies.
 
-Design-space dimensionality reduction benchmark dataset for
-bio-inspired underwater gliders.
+## Available or Planned Datasets
 
-Available on Zenodo.
+### Glider benchmark dataset
 
----
+Dataset for dimensionality reduction and optimization studies on a bio-inspired autonomous underwater glider.
 
-More datasets will be released in the future.
+**Includes**
+
+- geometry representation
+- design variables
+- physical outputs
+- metadata and preprocessing information
+
+### Propeller dataset
+
+Dataset for marine propeller shape analysis and optimization.
+
+**Includes**
+
+- parametric geometry information
+- hydrodynamic quantities
+- benchmark metadata
+
+### Airfoil dataset
+
+Dataset for aerodynamic shape optimization and dimensionality reduction studies.
+
+**Includes**
+
+- parameterized geometries
+- pressure distributions
+- integrated aerodynamic coefficients
+
+## Reproducibility Policy
+
+For each dataset, documentation should specify:
+
+- origin
+- variable definitions
+- preprocessing steps
+- file formats
+- sharing constraints
+- reproducibility notes
