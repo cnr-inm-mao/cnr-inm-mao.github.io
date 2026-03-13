@@ -11,8 +11,8 @@ theme:
   favicon: assets/logos/logo-icon.png
 
   features:
-    - navigation.tabs
     - navigation.sections
+    - navigation.expand
     - navigation.top
     - content.code.copy
     - search.suggest
