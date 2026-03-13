@@ -2,8 +2,6 @@
 <img src="assets/logos/logo.png" width="260">
 </div>
 
-# MAO Research Group
-
 <div class="hero">
   <div class="hero-text">
     <h1>Modeling, AI, and Optimization for Engineering Design</h1>
