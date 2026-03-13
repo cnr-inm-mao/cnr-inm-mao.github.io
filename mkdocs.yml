@@ -1,6 +1,6 @@
 site_name: MAO Research Group
 site_description: Machine learning, simulation-based design optimization, and dimensionality reduction for engineering design
-site_url: https://cnr-inm-mao.github.io
+site_url: https://cnr-inm-mao.github.io/
 use_directory_urls: true
 
 theme:
