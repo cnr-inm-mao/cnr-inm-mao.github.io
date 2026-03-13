@@ -7,7 +7,7 @@ theme:
   name: material
   language: en
 
-  logo: assets/logos/logo.png
+  logo: assets/logos/logo-icon.png
   favicon: assets/logos/logo-icon.png
 
   features:
