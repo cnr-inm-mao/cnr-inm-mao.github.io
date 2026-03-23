@@ -83,7 +83,7 @@
 
 ## Alumni
 
-- Name Surname — role / current position
+- Test — role / current position
 - Name Surname — role / current position
 - Name Surname — role / current position
 
