@@ -10,7 +10,7 @@
       <a class="icon-badge" href="https://www.inm.cnr.it/people/matteo-diez/" target="_blank" rel="noopener noreferrer" aria-label="Institutional profile">
         <img src="../assets/icons/web.svg" alt="Institutional">
       </a>
-      <a class="icon-badge" href="https://scholar.google.com/" target="_blank" rel="noopener noreferrer" aria-label="Google Scholar">
+      <a class="icon-badge" href="https://scholar.google.com/citations?user=AwGGVI4AAAAJ&hl=it&oi=ao" target="_blank" rel="noopener noreferrer" aria-label="Google Scholar">
         <img src="../assets/icons/googlescholar.svg" alt="Google Scholar">
       </a>
       <a class="icon-badge" href="https://it.linkedin.com/in/matteo-diez-7431bbb2" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
@@ -30,7 +30,7 @@
       <a class="icon-badge" href="https://aserani.github.io/" target="_blank" rel="noopener noreferrer" aria-label="Personal website">
         <img src="../assets/icons/web.svg" alt="Personal website">
       </a>
-      <a class="icon-badge" href="https://scholar.google.it/" target="_blank" rel="noopener noreferrer" aria-label="Google Scholar">
+      <a class="icon-badge" href="https://scholar.google.com/citations?user=_Tz_sf8AAAAJ&hl=it" target="_blank" rel="noopener noreferrer" aria-label="Google Scholar">
         <img src="../assets/icons/googlescholar.svg" alt="Google Scholar">
       </a>
       <a class="icon-badge" href="https://github.com/aserani" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
@@ -50,7 +50,7 @@
       <a class="icon-badge" href="https://www.inm.cnr.it/people/riccardo-pellegrini/" target="_blank" rel="noopener noreferrer" aria-label="Institutional profile">
         <img src="../assets/icons/web.svg" alt="Institutional">
       </a>
-      <a class="icon-badge" href="https://scholar.google.com/" target="_blank" rel="noopener noreferrer" aria-label="Google Scholar">
+      <a class="icon-badge" href="https://scholar.google.com/citations?user=URCvFdwAAAAJ&hl=it" target="_blank" rel="noopener noreferrer" aria-label="Google Scholar">
         <img src="../assets/icons/googlescholar.svg" alt="Google Scholar">
       </a>
       <a class="icon-badge" href="https://it.linkedin.com/in/riccardo-pellegrini-5437ab3a" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
@@ -71,7 +71,7 @@
   </div>
 
   <div class="person-card">
-    <img src="../assets/people/riccardo-broglia.png" alt="Riccardo Broglia" class="person-photo">
+    <img src="../assets/people/riccardo-broglia.jpg" alt="Riccardo Broglia" class="person-photo">
     <h3>Riccardo Broglia</h3>
     <p class="person-role">Research Director</p>
     <div class="person-links">
@@ -80,9 +80,9 @@
   </div>
 
   <div class="person-card">
-    <img src="../assets/people/cecilia-leotardi.png" alt="Cecilia Leotardi" class="person-photo">
+    <img src="../assets/people/cecilia-leotardi.jpg" alt="Cecilia Leotardi" class="person-photo">
     <h3>Cecilia Leotardi</h3>
-    <p class="person-role">Research Engineer</p>
+    <p class="person-role">Senior Research Engineer</p>
     <div class="person-links">
       <a class="icon-badge" href="https://www.inm.cnr.it/people/cecilia-leotardi/" target="_blank" rel="noopener noreferrer" aria-label="Institutional profile">
         <img src="../assets/icons/web.svg" alt="Institutional">
