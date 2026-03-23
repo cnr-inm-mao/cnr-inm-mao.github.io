@@ -33,7 +33,7 @@
         <img src="../assets/icons/web.svg" alt="Website">
       </a>
       <a class="icon-badge orcid" href="https://orcid.org/0000-0002-8814-1793" target="_blank" rel="noopener noreferrer" title="ORCID">
-         <img src"../assets/icons/orcid.svg" alt="ORCID">
+        <img src="../assets/icons/orcid.svg" alt="ORCID">
       </a>
       <a class="icon-badge scholar" href="https://scholar.google.com/citations?user=_Tz_sf8AAAAJ&hl=it" target="_blank" rel="noopener noreferrer" title="Google Scholar">
         <img src="../assets/icons/googlescholar.svg" alt="Google Scholar">
