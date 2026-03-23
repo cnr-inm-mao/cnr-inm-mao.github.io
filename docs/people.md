@@ -3,15 +3,15 @@
 <div class="people-grid">
 
   <div class="person-card">
-    <img src="../assets/people/matteo-diez.jpg" alt="Matteo Diez" class="person-photo">
+    <img src="../assets/people/matteo-diez.png" alt="Matteo Diez" class="person-photo">
     <h3>Matteo Diez</h3>
     <p class="person-role">Research Director</p>
     <div class="person-links">
       <a class="icon-badge" href="https://www.inm.cnr.it/people/matteo-diez/" target="_blank" rel="noopener noreferrer" aria-label="Institutional profile">
-        <img src="../assets/icons/institution.svg" alt="Institutional">
+        <img src="../assets/icons/web.svg" alt="Institutional">
       </a>
       <a class="icon-badge" href="https://scholar.google.com/" target="_blank" rel="noopener noreferrer" aria-label="Google Scholar">
-        <img src="../assets/icons/google-scholar.svg" alt="Google Scholar">
+        <img src="../assets/icons/googlescholar.svg" alt="Google Scholar">
       </a>
       <a class="icon-badge" href="https://it.linkedin.com/in/matteo-diez-7431bbb2" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
         <img src="../assets/icons/linkedin.svg" alt="LinkedIn">
@@ -20,18 +20,18 @@
   </div>
 
   <div class="person-card">
-    <img src="../assets/people/andrea-serani.jpg" alt="Andrea Serani" class="person-photo">
+    <img src="../assets/people/andrea-serani.png" alt="Andrea Serani" class="person-photo">
     <h3>Andrea Serani</h3>
     <p class="person-role">Research Scientist</p>
     <div class="person-links">
       <a class="icon-badge" href="https://www.inm.cnr.it/people/andrea-serani/" target="_blank" rel="noopener noreferrer" aria-label="Institutional profile">
-        <img src="../assets/icons/institution.svg" alt="Institutional">
+        <img src="../assets/icons/web.svg" alt="Institutional">
       </a>
       <a class="icon-badge" href="https://aserani.github.io/" target="_blank" rel="noopener noreferrer" aria-label="Personal website">
         <img src="../assets/icons/web.svg" alt="Personal website">
       </a>
       <a class="icon-badge" href="https://scholar.google.it/" target="_blank" rel="noopener noreferrer" aria-label="Google Scholar">
-        <img src="../assets/icons/google-scholar.svg" alt="Google Scholar">
+        <img src="../assets/icons/googlescholar.svg" alt="Google Scholar">
       </a>
       <a class="icon-badge" href="https://github.com/aserani" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
         <img src="../assets/icons/github.svg" alt="GitHub">
@@ -43,15 +43,15 @@
   </div>
 
   <div class="person-card">
-    <img src="../assets/people/riccardo-pellegrini.jpg" alt="Riccardo Pellegrini" class="person-photo">
+    <img src="../assets/people/riccardo-pellegrini.png" alt="Riccardo Pellegrini" class="person-photo">
     <h3>Riccardo Pellegrini</h3>
     <p class="person-role">Research Scientist</p>
     <div class="person-links">
       <a class="icon-badge" href="https://www.inm.cnr.it/people/riccardo-pellegrini/" target="_blank" rel="noopener noreferrer" aria-label="Institutional profile">
-        <img src="../assets/icons/institution.svg" alt="Institutional">
+        <img src="../assets/icons/web.svg" alt="Institutional">
       </a>
       <a class="icon-badge" href="https://scholar.google.com/" target="_blank" rel="noopener noreferrer" aria-label="Google Scholar">
-        <img src="../assets/icons/google-scholar.svg" alt="Google Scholar">
+        <img src="../assets/icons/googlescholar.svg" alt="Google Scholar">
       </a>
       <a class="icon-badge" href="https://it.linkedin.com/in/riccardo-pellegrini-5437ab3a" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
         <img src="../assets/icons/linkedin.svg" alt="LinkedIn">
@@ -60,7 +60,7 @@
   </div>
 
   <div class="person-card">
-    <img src="../assets/people/giorgio-palma.jpg" alt="Giorgio Palma" class="person-photo">
+    <img src="../assets/people/giorgio-palma.png" alt="Giorgio Palma" class="person-photo">
     <h3>Giorgio Palma</h3>
     <p class="person-role">Research Scientist</p>
     <div class="person-links">
@@ -71,7 +71,7 @@
   </div>
 
   <div class="person-card">
-    <img src="../assets/people/riccardo-broglia.jpg" alt="Riccardo Broglia" class="person-photo">
+    <img src="../assets/people/riccardo-broglia.png" alt="Riccardo Broglia" class="person-photo">
     <h3>Riccardo Broglia</h3>
     <p class="person-role">Research Director</p>
     <div class="person-links">
@@ -80,12 +80,12 @@
   </div>
 
   <div class="person-card">
-    <img src="../assets/people/cecilia-leotardi.jpg" alt="Cecilia Leotardi" class="person-photo">
+    <img src="../assets/people/cecilia-leotardi.png" alt="Cecilia Leotardi" class="person-photo">
     <h3>Cecilia Leotardi</h3>
     <p class="person-role">Research Engineer</p>
     <div class="person-links">
       <a class="icon-badge" href="https://www.inm.cnr.it/people/cecilia-leotardi/" target="_blank" rel="noopener noreferrer" aria-label="Institutional profile">
-        <img src="../assets/icons/institution.svg" alt="Institutional">
+        <img src="../assets/icons/web.svg" alt="Institutional">
       </a>
       <a class="icon-badge" href="https://it.linkedin.com/in/cecilia-leotardi-5615287" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
         <img src="../assets/icons/linkedin.svg" alt="LinkedIn">
