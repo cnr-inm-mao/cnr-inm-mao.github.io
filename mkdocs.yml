@@ -28,7 +28,11 @@ nav:
   - Research: research.md
   - Projects: projects.md
   - Software: software.md
-  - Publications: publications.md
+  - Publications:
+    - Overview: publications.md
+    - Journal Articles: publications/journal.md
+    - Conference Proceedings: publications/conference.md
+    - Books & Chapters: publications/books.md
   - Datasets: datasets.md
   - Opportunities: opportunities.md
   - Contact: contact.md
