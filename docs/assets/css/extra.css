@@ -199,3 +199,48 @@
 .badge:hover {
   background: #e5e7eb;
 }
+
+/* === ICON BADGES (NEW) === */
+
+.icon-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: var(--mao-bg-soft);
+  border: 1px solid var(--mao-card-border);
+  transition: all 0.2s ease;
+}
+
+.icon-badge img {
+  width: 18px;
+  height: 18px;
+  display: block;
+}
+
+/* Hover elegante MAO-style */
+.icon-badge:hover {
+  background: var(--mao-accent-soft);
+  transform: translateY(-2px);
+  border-color: var(--mao-accent);
+}
+
+/* Brand-aware hover (più premium) */
+
+.icon-badge.scholar:hover {
+  background: #e8f0fe;
+}
+
+.icon-badge.github:hover {
+  background: #111827;
+}
+
+.icon-badge.linkedin:hover {
+  background: #e6f0fa;
+}
+
+.icon-badge.orcid:hover {
+  background: #e8f5e9;
+}
