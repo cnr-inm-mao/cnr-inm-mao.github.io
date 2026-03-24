@@ -2,18 +2,6 @@
 
 ## Ongoing Projects
 
-### PME-toolkit
-
-Open-source software and documentation project for parametric model embedding and related dimensionality reduction methods.
-
-**Keywords:** dimensionality reduction, shape optimization, PME, open-source software
-
-### HDODG
-
-Hydrodynamic Design Optimization Discussion Group: an international initiative to connect researchers working on design optimization for marine systems.
-
-**Keywords:** hydrodynamics, optimization, community building
-
 ### Bio-inspired underwater systems
 
 Research activities on data-driven and simulation-based design of underwater gliders and bio-inspired marine vehicles.

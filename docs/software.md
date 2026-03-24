@@ -23,20 +23,6 @@ Toolkit for parametric model embedding and related methods for design-space dime
 - Documentation: `link here`
 - Citation: `link here`
 
-### SAMOA
-
-Adaptive surrogate-based framework for multi-fidelity optimization and analysis.
-
-**Main features**
-
-- surrogate-assisted optimization
-- adaptive sampling
-- uncertainty-aware workflows
-
-**Resources**
-
-- Repository: `link here`
-
 ## Software Principles
 
 Our software development follows these principles:
