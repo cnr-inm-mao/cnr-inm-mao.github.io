@@ -25,7 +25,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-gaggero2026physics"
+               href="../../assets/data/publications.bib#key-gaggero2026physics"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -42,7 +42,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-pellegrini2026high"
+               href="../../assets/data/publications.bib#key-pellegrini2026high"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -59,7 +59,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-palma2026data"
+               href="../../assets/data/publications.bib#key-palma2026data"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -81,7 +81,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-palma2025asv"
+               href="../../assets/data/publications.bib#key-palma2025asv"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -98,7 +98,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-wang2025physical"
+               href="../../assets/data/publications.bib#key-wang2025physical"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -115,7 +115,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-palma2025modelfree"
+               href="../../assets/data/publications.bib#key-palma2025modelfree"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -132,7 +132,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-serani2025extending"
+               href="../../assets/data/publications.bib#key-serani2025extending"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -149,7 +149,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-de2025digital"
+               href="../../assets/data/publications.bib#key-de2025digital"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -166,7 +166,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-diez2025datadriven"
+               href="../../assets/data/publications.bib#key-diez2025datadriven"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -183,7 +183,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-palma2025bayesian"
+               href="../../assets/data/publications.bib#key-palma2025bayesian"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -200,7 +200,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-mainini2025analytical"
+               href="../../assets/data/publications.bib#key-mainini2025analytical"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -217,7 +217,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-palma2025fowt"
+               href="../../assets/data/publications.bib#key-palma2025fowt"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -234,7 +234,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-pellegrini2025non"
+               href="../../assets/data/publications.bib#key-pellegrini2025non"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -251,7 +251,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-serani2025survey"
+               href="../../assets/data/publications.bib#key-serani2025survey"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -273,7 +273,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-pehlivan2024hydrofoils"
+               href="../../assets/data/publications.bib#key-pehlivan2024hydrofoils"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -290,7 +290,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-serani2024destroyer"
+               href="../../assets/data/publications.bib#key-serani2024destroyer"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -301,7 +301,7 @@ Peer-reviewed journal publications.
   <div class="pub-venue"><i>Ocean Engineering, 292, 116346, 2024</i></div>
   <div class="pub-meta"></div>
   <div class="pub-links"><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-lee2024grillage"
+               href="../../assets/data/publications.bib#key-lee2024grillage"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -318,7 +318,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-diez2024functional"
+               href="../../assets/data/publications.bib#key-diez2024functional"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -335,7 +335,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-seelinger2024democratizing"
+               href="../../assets/data/publications.bib#key-seelinger2024democratizing"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -352,7 +352,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-serani2024aerodynamic"
+               href="../../assets/data/publications.bib#key-serani2024aerodynamic"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -369,7 +369,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-serani2024scoping"
+               href="../../assets/data/publications.bib#key-serani2024scoping"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -385,7 +385,7 @@ Peer-reviewed journal publications.
   <div class="pub-venue"><i>Journal of Marine Science and Engineering, 11, 2232, 2023</i></div>
   <div class="pub-meta"></div>
   <div class="pub-links"><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-spinosa2023simulation"
+               href="../../assets/data/publications.bib#key-spinosa2023simulation"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -402,7 +402,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-serani2023pme"
+               href="../../assets/data/publications.bib#key-serani2023pme"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -413,7 +413,7 @@ Peer-reviewed journal publications.
   <div class="pub-venue"><i>Journal of Marine Science and Engineering, 11, 1220, 2023</i></div>
   <div class="pub-meta"></div>
   <div class="pub-links"><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-dagostino2023piv"
+               href="../../assets/data/publications.bib#key-dagostino2023piv"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -430,7 +430,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-serani2023dmdwaves"
+               href="../../assets/data/publications.bib#key-serani2023dmdwaves"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -447,7 +447,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-pellegrini2023asvpayload"
+               href="../../assets/data/publications.bib#key-pellegrini2023asvpayload"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -469,7 +469,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-dagostino2022rnn"
+               href="../../assets/data/publications.bib#key-dagostino2022rnn"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -486,7 +486,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-diez2022dmdmaneuvering"
+               href="../../assets/data/publications.bib#key-diez2022dmdmaneuvering"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -503,7 +503,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-khan2022shapesupervised"
+               href="../../assets/data/publications.bib#key-khan2022shapesupervised"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -520,7 +520,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-serani2022stochastic"
+               href="../../assets/data/publications.bib#key-serani2022stochastic"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -537,7 +537,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-khan2022gsa"
+               href="../../assets/data/publications.bib#key-khan2022gsa"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -554,7 +554,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-diez2022experimental"
+               href="../../assets/data/publications.bib#key-diez2022experimental"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -571,7 +571,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-wackers2022efficient"
+               href="../../assets/data/publications.bib#key-wackers2022efficient"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -588,7 +588,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-piazzola2022uq"
+               href="../../assets/data/publications.bib#key-piazzola2022uq"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -605,7 +605,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-pellegrini2022active"
+               href="../../assets/data/publications.bib#key-pellegrini2022active"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -622,7 +622,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-pellegrini2022linesearch"
+               href="../../assets/data/publications.bib#key-pellegrini2022linesearch"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -644,7 +644,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-serani2021urans"
+               href="../../assets/data/publications.bib#key-serani2021urans"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -661,7 +661,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-leotardi2021ortho"
+               href="../../assets/data/publications.bib#key-leotardi2021ortho"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -683,7 +683,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-pellegrini2020hybridization"
+               href="../../assets/data/publications.bib#key-pellegrini2020hybridization"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -700,7 +700,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-dagostino2020designspace"
+               href="../../assets/data/publications.bib#key-dagostino2020designspace"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -717,7 +717,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-durante2020accurate"
+               href="../../assets/data/publications.bib#key-durante2020accurate"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -739,7 +739,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-serani2019interplay"
+               href="../../assets/data/publications.bib#key-serani2019interplay"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -756,7 +756,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-serani2019adaptive"
+               href="../../assets/data/publications.bib#key-serani2019adaptive"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -778,7 +778,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-diez2018stochastic"
+               href="../../assets/data/publications.bib#key-diez2018stochastic"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -795,7 +795,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-diez2018statistical"
+               href="../../assets/data/publications.bib#key-diez2018statistical"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -812,7 +812,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-campana2018direct"
+               href="../../assets/data/publications.bib#key-campana2018direct"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -834,7 +834,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-stern2017statistical"
+               href="../../assets/data/publications.bib#key-stern2017statistical"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -851,7 +851,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-pellegrini2017pso"
+               href="../../assets/data/publications.bib#key-pellegrini2017pso"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -868,7 +868,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-volpi2017composite"
+               href="../../assets/data/publications.bib#key-volpi2017composite"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -890,7 +890,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-serani2016shiphydro"
+               href="../../assets/data/publications.bib#key-serani2016shiphydro"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -907,7 +907,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-serani2016asyncpso"
+               href="../../assets/data/publications.bib#key-serani2016asyncpso"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -924,7 +924,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-leotardi2016mdo"
+               href="../../assets/data/publications.bib#key-leotardi2016mdo"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -946,7 +946,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-stern2015recent"
+               href="../../assets/data/publications.bib#key-stern2015recent"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -963,7 +963,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-chen2015high"
+               href="../../assets/data/publications.bib#key-chen2015high"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -980,7 +980,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-volpi2015development"
+               href="../../assets/data/publications.bib#key-volpi2015development"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -997,7 +997,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-diez2015design"
+               href="../../assets/data/publications.bib#key-diez2015design"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -1014,7 +1014,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-campana2015directglobal"
+               href="../../assets/data/publications.bib#key-campana2015directglobal"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -1036,7 +1036,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-diez2014uncertainty"
+               href="../../assets/data/publications.bib#key-diez2014uncertainty"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -1058,7 +1058,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-he2013urans"
+               href="../../assets/data/publications.bib#key-he2013urans"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -1075,7 +1075,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-peri2013ship"
+               href="../../assets/data/publications.bib#key-peri2013ship"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -1092,7 +1092,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-mousaviraad2013framework"
+               href="../../assets/data/publications.bib#key-mousaviraad2013framework"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -1109,7 +1109,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-wei2013one"
+               href="../../assets/data/publications.bib#key-wei2013one"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -1131,7 +1131,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-diez2012optimal"
+               href="../../assets/data/publications.bib#key-diez2012optimal"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -1148,7 +1148,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-diez2012hydroelastic"
+               href="../../assets/data/publications.bib#key-diez2012hydroelastic"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -1170,7 +1170,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-peri2011new"
+               href="../../assets/data/publications.bib#key-peri2011new"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -1192,7 +1192,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-diez2010robust"
+               href="../../assets/data/publications.bib#key-diez2010robust"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -1209,7 +1209,7 @@ Peer-reviewed journal publications.
                title="DOI">
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-diez2010robust"
+               href="../../assets/data/publications.bib#key-diez2010robust"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>

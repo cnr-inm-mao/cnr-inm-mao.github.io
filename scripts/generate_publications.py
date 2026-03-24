@@ -134,7 +134,7 @@ def link_html(entry: dict) -> str:
         key = html.escape(entry["ID"])
         links.append(
         f'''<a class="pub-icon bibtex"
-               href="../assets/data/publications.bib#key-{key}"
+               href="../../assets/data/publications.bib#key-{key}"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a>'''

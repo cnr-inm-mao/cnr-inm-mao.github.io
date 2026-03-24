@@ -12,8 +12,14 @@
       <a class="icon-badge institution" href="https://www.inm.cnr.it/people/matteo-diez/" target="_blank" rel="noopener noreferrer" title="Institutional profile">
         <img src="../assets/icons/institution.svg" alt="Institutional">
       </a>
+      <a class="icon-badge orcid" href="https://orcid.org/0000-0001-6113-7893" target="_blank" rel="noopener noreferrer" title="ORCID">
+        <img src="../assets/icons/orcid.svg" alt="ORCID">
+      </a>
       <a class="icon-badge scholar" href="https://scholar.google.com/citations?user=AwGGVI4AAAAJ&hl=it" target="_blank" rel="noopener noreferrer" title="Google Scholar">
         <img src="../assets/icons/googlescholar.svg" alt="Google Scholar">
+      </a>
+      <a class="icon-badge github" href="https://github.com/cnr-inm-mao" target="_blank" rel="noopener noreferrer" title="GitHub">
+        <img src="../assets/icons/github.svg" alt="GitHub">
       </a>
       <a class="icon-badge linkedin" href="https://it.linkedin.com/in/matteo-diez-7431bbb2" target="_blank" rel="noopener noreferrer" title="LinkedIn">
         <img src="../assets/icons/linkedin.svg" alt="LinkedIn">
@@ -38,10 +44,10 @@
       <a class="icon-badge scholar" href="https://scholar.google.com/citations?user=_Tz_sf8AAAAJ&hl=it" target="_blank" rel="noopener noreferrer" title="Google Scholar">
         <img src="../assets/icons/googlescholar.svg" alt="Google Scholar">
       </a>
-      <a class="icon-badge github" href="https://github.com/aserani" target="_blank" rel="noopener noreferrer" title="GitHub">
+      <a class="icon-badge github" href="https://github.com/cnr-inm-mao" target="_blank" rel="noopener noreferrer" title="GitHub">
         <img src="../assets/icons/github.svg" alt="GitHub">
       </a>
-      <a class="icon-badge linkedin" href="https://it.linkedin.com/in/andrea-serani" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+      <a class="icon-badge linkedin" href="https://www.linkedin.com/in/andrea-serani/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
         <img src="../assets/icons/linkedin.svg" alt="LinkedIn">
       </a>
     </div>
@@ -55,8 +61,14 @@
       <a class="icon-badge institution" href="https://www.inm.cnr.it/people/riccardo-pellegrini/" target="_blank" rel="noopener noreferrer" title="Institutional profile">
         <img src="../assets/icons/institution.svg" alt="Institutional">
       </a>
+      <a class="icon-badge orcid" href="https://orcid.org/0000-0003-4953-3038" target="_blank" rel="noopener noreferrer" title="ORCID">
+        <img src="../assets/icons/orcid.svg" alt="ORCID">
+      </a>
       <a class="icon-badge scholar" href="https://scholar.google.com/citations?user=URCvFdwAAAAJ&hl=it" target="_blank" rel="noopener noreferrer" title="Google Scholar">
         <img src="../assets/icons/googlescholar.svg" alt="Google Scholar">
+      </a>
+      <a class="icon-badge github" href="https://github.com/cnr-inm-mao" target="_blank" rel="noopener noreferrer" title="GitHub">
+        <img src="../assets/icons/github.svg" alt="GitHub">
       </a>
       <a class="icon-badge linkedin" href="https://it.linkedin.com/in/riccardo-pellegrini-5437ab3a" target="_blank" rel="noopener noreferrer" title="LinkedIn">
         <img src="../assets/icons/linkedin.svg" alt="LinkedIn">
@@ -70,6 +82,15 @@
     <p class="person-role">Research Director</p>
     <div class="person-links">
       <!-- Add links when available -->
+      <a class="icon-badge orcid" href="https://orcid.org/0000-0001-9371-7120" target="_blank" rel="noopener noreferrer" title="ORCID">
+        <img src="../assets/icons/orcid.svg" alt="ORCID">
+      </a>
+      <a class="icon-badge scholar" href="https://scholar.google.com/citations?hl=it&user=0a20Sp0AAAAJ" target="_blank" rel="noopener noreferrer" title="Google Scholar">
+        <img src="../assets/icons/googlescholar.svg" alt="Google Scholar">
+      </a>
+      <a class="icon-badge linkedin" href="https://www.linkedin.com/in/riccardo-broglia-466278a5/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+        <img src="../assets/icons/linkedin.svg" alt="LinkedIn">
+      </a>
     </div>
   </div>
 
@@ -80,6 +101,12 @@
     <div class="person-links">
       <a class="icon-badge institution" href="https://www.inm.cnr.it/people/cecilia-leotardi/" target="_blank" rel="noopener noreferrer" title="Institutional profile">
         <img src="../assets/icons/institution.svg" alt="Institutional">
+      </a>
+      <a class="icon-badge orcid" href="https://orcid.org/0000-0002-7135-5744" target="_blank" rel="noopener noreferrer" title="ORCID">
+        <img src="../assets/icons/orcid.svg" alt="ORCID">
+      </a>
+      <a class="icon-badge scholar" href="https://scholar.google.com/citations?hl=it&user=P4dwCywAAAAJ" target="_blank" rel="noopener noreferrer" title="Google Scholar">
+        <img src="../assets/icons/googlescholar.svg" alt="Google Scholar">
       </a>
       <a class="icon-badge linkedin" href="https://it.linkedin.com/in/cecilia-leotardi-5615287" target="_blank" rel="noopener noreferrer" title="LinkedIn">
         <img src="../assets/icons/linkedin.svg" alt="LinkedIn">
@@ -100,6 +127,12 @@
     <h3>Giorgio Palma</h3>
     <p class="person-role">Research Scientist</p>
     <div class="person-links">
+      <a class="icon-badge orcid" href="https://orcid.org/0000-0003-4504-8123" target="_blank" rel="noopener noreferrer" title="ORCID">
+        <img src="../assets/icons/orcid.svg" alt="ORCID">
+      </a>
+      <a class="icon-badge scholar" href="https://scholar.google.com/citations?hl=it&user=lU3X3_MAAAAJ" target="_blank" rel="noopener noreferrer" title="Google Scholar">
+        <img src="../assets/icons/googlescholar.svg" alt="Google Scholar">
+      </a>
       <a class="icon-badge linkedin" href="https://it.linkedin.com/in/giorgio-palma" target="_blank" rel="noopener noreferrer" title="LinkedIn">
         <img src="../assets/icons/linkedin.svg" alt="LinkedIn">
       </a>
@@ -114,6 +147,9 @@
       <a class="icon-badge orcid" href="https://orcid.org/0000-0003-3920-8434" target="_blank" rel="noopener noreferrer" title="ORCID">
         <img src="../assets/icons/orcid.svg" alt="ORCID">
       </a>
+      <a class="icon-badge scholar" href="https://scholar.google.com/citations?user=yYA5eC8AAAAJ&hl=it&oi=ao" target="_blank" rel="noopener noreferrer" title="Google Scholar">
+        <img src="../assets/icons/googlescholar.svg" alt="Google Scholar">
+      </a>
       <a class="icon-badge linkedin" href="https://www.linkedin.com/in/dr-avinita-gautam-83b427120" target="_blank" rel="noopener noreferrer" title="LinkedIn">
         <img src="../assets/icons/linkedin.svg" alt="LinkedIn">
       </a>
@@ -126,6 +162,9 @@
     <p class="person-role">Research Fellow</p>
     <div class="person-links">
       <!-- Add links when available -->
+      <a class="icon-badge linkedin" href="https://www.linkedin.com/in/sofia-sammarco-3b690b2a8/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+        <img src="../assets/icons/linkedin.svg" alt="LinkedIn">
+      </a>
     </div>
   </div>
 
