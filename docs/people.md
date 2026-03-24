@@ -32,11 +32,8 @@
     <h3>Andrea Serani</h3>
     <p class="person-role">Research Scientist</p>
     <div class="person-links">
-      <a class="icon-badge institution" href="https://www.inm.cnr.it/people/andrea-serani/" target="_blank" rel="noopener noreferrer" title="Institutional profile">
-        <img src="../assets/icons/institution.svg" alt="Institutional">
-      </a>
-      <a class="icon-badge web" href="https://aserani.github.io/" target="_blank" rel="noopener noreferrer" title="Personal website">
-        <img src="../assets/icons/web.svg" alt="Website">
+      <a class="icon-badge institution" href="https://aserani.github.io/" target="_blank" rel="noopener noreferrer" title="Personal website">
+        <img src="../assets/icons/institution.svg" alt="Website">
       </a>
       <a class="icon-badge orcid" href="https://orcid.org/0000-0002-8814-1793" target="_blank" rel="noopener noreferrer" title="ORCID">
         <img src="../assets/icons/orcid.svg" alt="ORCID">
@@ -49,6 +46,9 @@
       </a>
       <a class="icon-badge linkedin" href="https://www.linkedin.com/in/andrea-serani/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
         <img src="../assets/icons/linkedin.svg" alt="LinkedIn">
+      </a>
+      <a class="icon-badge email" href="mailto:andrea.serani@cnr.it" title="Email">
+        <img src="../assets/icons/mail.svg" alt="Email">
       </a>
     </div>
   </div>

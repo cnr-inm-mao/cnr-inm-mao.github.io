@@ -1,32 +1,55 @@
+---
+title: Contact
+---
+
 # Contact
 
-## Contact Information
+## MAO Research Group  
+CNR-INM — Institute of Marine Engineering  
+National Research Council of Italy  
 
-**MAO Research Group**  
-Institution / Department  
-City, Country
+Rome, Italy
 
-**Main contact**  
-Andrea Serani  
-Email: `your.email@domain`
+---
 
-## Collaborations
+## Where we are
 
-We are open to collaborations in:
+<div class="info-card">
 
-- computational design
-- machine learning for engineering
-- dimensionality reduction
-- marine hydrodynamics
-- aerospace optimization
-- reproducible scientific software
+<iframe
+  src="https://www.google.com/maps?q=Via%20di%20Vallerano%20139%20Rome&output=embed"
+  width="100%"
+  height="320"
+  style="border:0; border-radius:12px;"
+  allowfullscreen=""
+  loading="lazy">
+</iframe>
 
-## Online Presence
+<div style="margin-top:0.6rem;">
+  <a href="https://www.google.com/maps?q=Via+di+Vallerano+139+Rome" target="_blank">
+    Open in Google Maps →
+  </a>
+</div>
 
-- GitHub: `link here`
-- Group page: `link here`
-- ORCID / Google Scholar / LinkedIn: `link here`
+</div>
 
-## Address
+---
 
-Add institutional address here if you want this page to be more formal.
+## Contact information
+
+**Email**  
+[mao@email.it](mailto:mao@email.it)
+
+**Address**  
+Via di Vallerano 139  
+00128 Rome, Italy  
+
+**Website**  
+https://www.inm.cnr.it  
+
+---
+
+## Get in touch
+
+For research collaborations, PhD opportunities, or general inquiries,  
+please contact the group members directly via the [People](../people/) page.
