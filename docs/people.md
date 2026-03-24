@@ -24,6 +24,9 @@
       <a class="icon-badge linkedin" href="https://it.linkedin.com/in/matteo-diez-7431bbb2" target="_blank" rel="noopener noreferrer" title="LinkedIn">
         <img src="../assets/icons/linkedin.svg" alt="LinkedIn">
       </a>
+      <a class="icon-badge email" href="mailto:matteo.diez@cnr.it" title="Email">
+        <img src="../assets/icons/mail.svg" alt="Email">
+      </a>
     </div>
   </div>
 
@@ -73,6 +76,9 @@
       <a class="icon-badge linkedin" href="https://it.linkedin.com/in/riccardo-pellegrini-5437ab3a" target="_blank" rel="noopener noreferrer" title="LinkedIn">
         <img src="../assets/icons/linkedin.svg" alt="LinkedIn">
       </a>
+      <a class="icon-badge email" href="mailto:riccardo.pellegrini@cnr.it" title="Email">
+        <img src="../assets/icons/mail.svg" alt="Email">
+      </a>
     </div>
   </div>
 
@@ -90,6 +96,9 @@
       </a>
       <a class="icon-badge linkedin" href="https://www.linkedin.com/in/riccardo-broglia-466278a5/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
         <img src="../assets/icons/linkedin.svg" alt="LinkedIn">
+      </a>
+      <a class="icon-badge email" href="mailto:riccardo.broglia@cnr.it" title="Email">
+        <img src="../assets/icons/mail.svg" alt="Email">
       </a>
     </div>
   </div>
@@ -110,6 +119,9 @@
       </a>
       <a class="icon-badge linkedin" href="https://it.linkedin.com/in/cecilia-leotardi-5615287" target="_blank" rel="noopener noreferrer" title="LinkedIn">
         <img src="../assets/icons/linkedin.svg" alt="LinkedIn">
+      </a>
+      <a class="icon-badge email" href="mailto:cecilia.leotardi@cnr.it" title="Email">
+        <img src="../assets/icons/mail.svg" alt="Email">
       </a>
     </div>
   </div>
@@ -136,6 +148,9 @@
       <a class="icon-badge linkedin" href="https://it.linkedin.com/in/giorgio-palma" target="_blank" rel="noopener noreferrer" title="LinkedIn">
         <img src="../assets/icons/linkedin.svg" alt="LinkedIn">
       </a>
+      <a class="icon-badge email" href="mailto:giorgio.palma@cnr.it" title="Email">
+        <img src="../assets/icons/mail.svg" alt="Email">
+      </a>
     </div>
   </div>
 
@@ -153,6 +168,9 @@
       <a class="icon-badge linkedin" href="https://www.linkedin.com/in/dr-avinita-gautam-83b427120" target="_blank" rel="noopener noreferrer" title="LinkedIn">
         <img src="../assets/icons/linkedin.svg" alt="LinkedIn">
       </a>
+      <a class="icon-badge email" href="mailto:avinitagautam@cnr.it" title="Email">
+        <img src="../assets/icons/mail.svg" alt="Email">
+      </a>
     </div>
   </div>
 
@@ -164,6 +182,9 @@
       <!-- Add links when available -->
       <a class="icon-badge linkedin" href="https://www.linkedin.com/in/sofia-sammarco-3b690b2a8/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
         <img src="../assets/icons/linkedin.svg" alt="LinkedIn">
+      </a>
+      <a class="icon-badge email" href="mailto:sofiasammarco@cnr.it" title="Email">
+        <img src="../assets/icons/mail.svg" alt="Email">
       </a>
     </div>
   </div>
