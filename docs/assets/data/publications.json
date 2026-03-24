@@ -13,6 +13,27 @@
       "ID": "gaggero2026physics"
     },
     {
+      "doi": "10.1063/5.0303696",
+      "publisher": "AIP Publishing",
+      "year": "2026",
+      "number": "1",
+      "volume": "38",
+      "journal": "Physics of Fluids",
+      "author": "Pellegrini, R and Diez, M and Wang, Z and Stern, F",
+      "title": "High-fidelity computational fluid--structure interaction and physical analysis of flexible plate slamming",
+      "ENTRYTYPE": "article",
+      "ID": "pellegrini2026high"
+    },
+    {
+      "doi": "10.1007/s42241-026-0015-z",
+      "year": "2026",
+      "journal": "Journal of Hydrodynamics",
+      "author": "Palma, Giorgio and Serani, Andrea and Diez, Matteo",
+      "title": "Data-driven uncertainty-aware seakeeping prediction of the Delft 372 catamaran using ensemble Hankel dynamic mode decomposition",
+      "ENTRYTYPE": "article",
+      "ID": "palma2026data"
+    },
+    {
       "keywords": "DMD,system identification,ASV",
       "doi": "10.3390/jmse13122267",
       "pages": "2267",
@@ -24,6 +45,18 @@
       "title": "System Identification of a Moored ASV with Recessed Moon Pool via Deterministic and Bayesian Hankel-DMDc",
       "ENTRYTYPE": "article",
       "ID": "palma2025asv"
+    },
+    {
+      "doi": "10.1016/j.oceaneng.2025.120348",
+      "publisher": "Elsevier",
+      "year": "2025",
+      "pages": "120348",
+      "volume": "321",
+      "journal": "Ocean engineering",
+      "author": "Wang, Zhaoyuan and Park, Sungtek and Milano, Christian and Sanada, Yugo and Sarigul, Deniz Ozturk and Stern, Frederick and Gunderson, Andrew and Scherer, John and Yasukawa, Hironori and Diez, Matteo",
+      "title": "Physical analysis methods for planing hull turning circles",
+      "ENTRYTYPE": "article",
+      "ID": "wang2025physical"
     },
     {
       "keywords": "DMD,system identification,ships",
@@ -46,6 +79,19 @@
       "title": "Extending Parametric Model Embedding with Physical Information for Design-Space Dimensionality Reduction in Shape Optimization",
       "ENTRYTYPE": "article",
       "ID": "serani2025extending"
+    },
+    {
+      "doi": "10.1007/s40860-025-00245-",
+      "publisher": "Springer",
+      "year": "2025",
+      "pages": "6",
+      "number": "1",
+      "volume": "11",
+      "journal": "Journal of Reliable Intelligent Environments",
+      "author": "De Benedictis, Riccardo and Cesta, Amedeo and Pellegrini, Riccardo and Diez, Matteo and Pinto, Diego Maria and Ventura, Paolo and Stecca, Giuseppe and Felici, Giovanni and Scalas, Andreas and Mortara, Michela and others",
+      "title": "Digital twins for intelligent cities: the case study of Matera",
+      "ENTRYTYPE": "article",
+      "ID": "de2025digital"
     },
     {
       "keywords": "DMD,forecasting,ships",
@@ -93,6 +139,18 @@
       "title": "Analysis, Forecasting, and System Identification of a Floating Offshore Wind Turbine Using Dynamic Mode Decomposition",
       "ENTRYTYPE": "article",
       "ID": "palma2025fowt"
+    },
+    {
+      "doi": "10.1016/j.cma.2025.117736",
+      "publisher": "Elsevier",
+      "year": "2025",
+      "pages": "117736",
+      "volume": "437",
+      "journal": "Computer Methods in Applied Mechanics and Engineering",
+      "author": "Pellegrini, Riccardo and Wang, Zhaoyuan and Stern, Frederick and Diez, Matteo",
+      "title": "A non-intrusive nonlinear structural ROM for partitioned two-way fluid--structure interaction computations",
+      "ENTRYTYPE": "article",
+      "ID": "pellegrini2025non"
     },
     {
       "keywords": "PME,dimensionality reduction,survey",
@@ -305,6 +363,18 @@
       "ID": "khan2022gsa"
     },
     {
+      "doi": "10.1016/j.marstruc.2022.103256",
+      "publisher": "Elsevier",
+      "year": "2022",
+      "pages": "103256",
+      "volume": "85",
+      "journal": "Marine structures",
+      "author": "Diez, Matteo and Lee, Evan J and Harrison, Emily L and Powers, Ann Marie R and Snyder, Lawrence A and Jiang, Minyee J and Bay, Raymond J and Lewis, Richard R and Kubina, Eric R and Mucha, Philipp and others",
+      "title": "Experimental and computational fluid-structure interaction analysis and optimization of deep-V planing-hull grillage panels subject to slamming loads--Part I: Regular waves",
+      "ENTRYTYPE": "article",
+      "ID": "diez2022experimental"
+    },
+    {
       "keywords": "multifidelity,surrogates,optimization",
       "doi": "10.1007/s40722-022-00268-5",
       "year": "2022",
@@ -397,6 +467,18 @@
       "ID": "dagostino2020designspace"
     },
     {
+      "doi": "10.1016/j.oceaneng.2019.106685",
+      "publisher": "Elsevier",
+      "year": "2020",
+      "pages": "106685",
+      "volume": "195",
+      "journal": "Ocean Engineering",
+      "author": "Durante, Danilo and Broglia, Riccardo and Diez, Matteo and Olivieri, Angelo and Campana, EF and Stern, Fred",
+      "title": "Accurate experimental benchmark study of a catamaran in regular and irregular head waves including uncertainty quantification",
+      "ENTRYTYPE": "article",
+      "ID": "durante2020accurate"
+    },
+    {
       "keywords": "dimensionality reduction,nonlinear",
       "doi": "10.5957/JOSR.09180056",
       "pages": "313--327",
@@ -423,6 +505,32 @@
       "ID": "serani2019adaptive"
     },
     {
+      "doi": "10.1007/s00158-017-1775-4",
+      "publisher": "Springer",
+      "year": "2018",
+      "pages": "735--758",
+      "number": "2",
+      "volume": "57",
+      "journal": "Structural and Multidisciplinary Optimization",
+      "author": "Diez, Matteo and Campana, Emilio F and Stern, Frederick",
+      "title": "Stochastic optimization methods for ship resistance and operational efficiency via CFD: M. Diez et al.",
+      "ENTRYTYPE": "article",
+      "ID": "diez2018stochastic"
+    },
+    {
+      "doi": "10.1115/1.4041372",
+      "publisher": "American Society of Mechanical Engineers",
+      "year": "2018",
+      "pages": "021004",
+      "number": "2",
+      "volume": "3",
+      "journal": "Journal of Verification, Validation and Uncertainty Quantification",
+      "author": "Diez, Matteo and Broglia, Riccardo and Durante, Danilo and Olivieri, Angelo and Campana, Emilio F and Stern, Frederick",
+      "title": "Statistical assessment and validation of experimental and computational ship response in irregular waves",
+      "ENTRYTYPE": "article",
+      "ID": "diez2018statistical"
+    },
+    {
       "keywords": "optimization,ships",
       "doi": "10.1007/s10589-017-9955-0",
       "pages": "53--72",
@@ -436,6 +544,19 @@
       "ID": "campana2018direct"
     },
     {
+      "doi": "10.1115/1.4038255",
+      "publisher": "American Society of Mechanical Engineers",
+      "year": "2017",
+      "pages": "031004",
+      "number": "3",
+      "volume": "2",
+      "journal": "Journal of Verification, Validation and Uncertainty Quantification",
+      "author": "Stern, Frederick and Diez, Matteo and Sadat-Hosseini, Hamid and Yoon, Hyunse and Quadvlieg, Frans",
+      "title": "Statistical approach for computational fluid dynamics state-of-the-art assessment: N-version verification and validation",
+      "ENTRYTYPE": "article",
+      "ID": "stern2017statistical"
+    },
+    {
       "keywords": "PSO,optimization",
       "doi": "10.1016/j.asoc.2017.05.013",
       "pages": "714--731",
@@ -446,6 +567,18 @@
       "title": "Formulation and parameter selection in multi-objective deterministic particle swarm for simulation-based optimization",
       "ENTRYTYPE": "article",
       "ID": "pellegrini2017pso"
+    },
+    {
+      "doi": "10.1016/j.oceaneng.2017.07.053",
+      "publisher": "Elsevier",
+      "year": "2017",
+      "pages": "240--258",
+      "volume": "143",
+      "journal": "Ocean engineering",
+      "author": "Volpi, S and Diez, M and Sadat-Hosseini, H and Kim, D-H and Stern, F and Thodal, RS and Grenestedt, JL",
+      "title": "Composite bottom panel slamming of a fast planing hull via tightly coupled fluid-structure interaction simulations and sea trials",
+      "ENTRYTYPE": "article",
+      "ID": "volpi2017composite"
     },
     {
       "keywords": "optimization,ships",
@@ -485,6 +618,57 @@
       "ID": "leotardi2016mdo"
     },
     {
+      "doi": "10.1016/S1001-6058(15)60452-8",
+      "publisher": "Springer",
+      "year": "2015",
+      "pages": "1--23",
+      "number": "1",
+      "volume": "27",
+      "journal": "Journal of Hydrodynamics",
+      "author": "Stern, Frederick and Wang, Zhaoyuan and Yang, Jianming and Sadat-Hosseini, Hamid and Mousaviraad, Maysam and Bhushan, Shanti and Diez, Matteo and Sung-Hwan, Yoon and Wu, Ping-Chen and Yeon, Seong Mo and others",
+      "title": "Recent progress in CFD for naval architecture and ocean engineering",
+      "ENTRYTYPE": "article",
+      "ID": "stern2015recent"
+    },
+    {
+      "doi": "10.1080/0305215X.2014.895340",
+      "publisher": "Taylor \\& Francis",
+      "year": "2015",
+      "pages": "473--494",
+      "number": "4",
+      "volume": "47",
+      "journal": "Engineering Optimization",
+      "author": "Chen, Xi and Diez, Matteo and Kandasamy, Manivannan and Zhang, Zhiguo and Campana, Emilio F and Stern, Frederick",
+      "title": "High-fidelity global optimization of shape design by dimensionality reduction, metamodels and deterministic particle swarm",
+      "ENTRYTYPE": "article",
+      "ID": "chen2015high"
+    },
+    {
+      "doi": "10.1007/s00158-014-1128-5",
+      "publisher": "Springer",
+      "year": "2015",
+      "pages": "347--368",
+      "number": "2",
+      "volume": "51",
+      "journal": "Structural and Multidisciplinary Optimization",
+      "author": "Volpi, Silvia and Diez, Matteo and Gaul, Nicholas J and Song, Hyeongjin and Iemma, Umberto and Choi, KK and Campana, Emilio F and Stern, Frederick",
+      "title": "Development and validation of a dynamic metamodel based on stochastic radial basis functions and uncertainty quantification",
+      "ENTRYTYPE": "article",
+      "ID": "volpi2015development"
+    },
+    {
+      "doi": "10.1016/j.cma.2014.10.042",
+      "publisher": "Elsevier",
+      "year": "2015",
+      "pages": "1525--1544",
+      "volume": "283",
+      "journal": "Computer Methods in Applied Mechanics and Engineering",
+      "author": "Diez, Matteo and Campana, Emilio F and Stern, Frederick",
+      "title": "Design-space dimensionality reduction in shape optimization by Karhunen--Lo{\\`e}ve expansion",
+      "ENTRYTYPE": "article",
+      "ID": "diez2015design"
+    },
+    {
       "keywords": "optimization,ships",
       "doi": "10.1007/s11081-015-9303-0",
       "pages": "127--156",
@@ -496,6 +680,134 @@
       "title": "Derivative-free global ship design optimization using global/local hybridization of the DIRECT algorithm",
       "ENTRYTYPE": "article",
       "ID": "campana2015directglobal"
+    },
+    {
+      "doi": "10.1007/s00773-013-0235-0",
+      "publisher": "Springer",
+      "year": "2014",
+      "pages": "143--169",
+      "number": "2",
+      "volume": "19",
+      "journal": "Journal of Marine Science and Technology",
+      "author": "Diez, Matteo and He, Wei and Campana, Emilio F and Stern, Frederick",
+      "title": "Uncertainty quantification of Delft catamaran resistance, sinkage and trim for variable Froude number and geometry using metamodels, quadrature and Karhunen--Lo{\\`e}ve expansion",
+      "ENTRYTYPE": "article",
+      "ID": "diez2014uncertainty"
+    },
+    {
+      "doi": "10.1016/j.oceaneng.2013.06.020",
+      "publisher": "Elsevier",
+      "year": "2013",
+      "pages": "189--217",
+      "volume": "74",
+      "journal": "Ocean Engineering",
+      "author": "He, Wei and Diez, Matteo and Zou, Zaojian and Campana, Emilio F and Stern, Frederick",
+      "title": "URANS study of Delft catamaran total/added resistance, motions and slamming loads in head sea including irregular wave and uncertainty quantification for variable regular wave and geometry",
+      "ENTRYTYPE": "article",
+      "ID": "he2013urans"
+    },
+    {
+      "doi": "10.1108/02644401311329361",
+      "publisher": "Emerald Group Publishing Limited",
+      "year": "2013",
+      "pages": "548--561",
+      "number": "4",
+      "volume": "30",
+      "journal": "Engineering Computations",
+      "author": "Peri, Daniele and Diez, Matteo",
+      "title": "Ship optimization by globally convergent modification of PSO by a surrogate-based Newton method",
+      "ENTRYTYPE": "article",
+      "ID": "peri2013ship"
+    },
+    {
+      "doi": "10.1615/Int.J.UncertaintyQuantification.2012003594",
+      "publisher": "Begel House Inc.",
+      "year": "2013",
+      "number": "5",
+      "volume": "3",
+      "journal": "International Journal for Uncertainty Quantification",
+      "author": "Mousaviraad, S Maysam and He, Wei and Diez, Matteo and Stern, Frederick",
+      "title": "Framework for convergence and validation of stochastic uncertainty quantification and relationship to deterministic verification and validation",
+      "ENTRYTYPE": "article",
+      "ID": "mousaviraad2013framework"
+    },
+    {
+      "doi": "10.1016/S1001-6058(13)60410-2",
+      "publisher": "Elsevier",
+      "year": "2013",
+      "pages": "655--662",
+      "number": "5",
+      "volume": "25",
+      "journal": "Journal of Hydrodynamics, Ser. B",
+      "author": "Wei, HE and Matteo, DIEZ and Zao-jian, ZOU and others",
+      "title": "A one-dimensional polynomial chaos method in CFD--Based uncertainty quanti-fication for ship hydrodynamic performance",
+      "ENTRYTYPE": "article",
+      "ID": "wei2013one"
+    },
+    {
+      "doi": "10.1179/str.2012.59.1.002",
+      "publisher": "Taylor \\& Francis",
+      "year": "2012",
+      "pages": "14--20",
+      "number": "1",
+      "volume": "59",
+      "journal": "Ship Technology Research",
+      "author": "Diez, Matteo and Peri, Daniele",
+      "title": "Optimal hull-form design subject to epistemic uncertainty",
+      "ENTRYTYPE": "article",
+      "ID": "diez2012optimal"
+    },
+    {
+      "doi": "10.1007/s00158-012-0783-7",
+      "publisher": "Springer",
+      "year": "2012",
+      "pages": "613--625",
+      "number": "4",
+      "volume": "46",
+      "journal": "Structural and Multidisciplinary Optimization",
+      "author": "Diez, Matteo and Peri, Daniele and Fasano, Giovanni and Campana, Emilio F",
+      "title": "Hydroelastic optimization of a keel fin of a sailing boat: a multidisciplinary robust formulation for ship design",
+      "ENTRYTYPE": "article",
+      "ID": "diez2012hydroelastic"
+    },
+    {
+      "doi": "10.1179/str.2011.58.2.004",
+      "publisher": "Taylor \\& Francis",
+      "year": "2011",
+      "pages": "100--110",
+      "number": "2",
+      "volume": "58",
+      "journal": "Ship Technology Research",
+      "author": "Peri, Daniele and Diez, Matteo",
+      "title": "A New Parameterisation Approach for Mixed-Integer Optimisation",
+      "ENTRYTYPE": "article",
+      "ID": "peri2011new"
+    },
+    {
+      "doi": "10.1016/j.oceaneng.2010.03.010",
+      "publisher": "Elsevier",
+      "year": "2010",
+      "pages": "966--977",
+      "number": "11-12",
+      "volume": "37",
+      "journal": "Ocean Engineering",
+      "author": "Diez, Matteo and Peri, Daniele",
+      "title": "Robust optimization for ship conceptual design",
+      "ENTRYTYPE": "article",
+      "ID": "diez2010robust"
+    },
+    {
+      "doi": "10.5296/erm.v2i1.323",
+      "publisher": "Macrothink Institute Inc.",
+      "year": "2010",
+      "pages": "68",
+      "number": "1",
+      "volume": "2",
+      "journal": "Enterprise Risk Management",
+      "author": "Diez, Matteo and Peri, Daniele and Campana, Emilio F and Iemma, Umberto",
+      "title": "Robust decision making in aerial and marine vehicles optimization: a designer's viewpoint",
+      "ENTRYTYPE": "article",
+      "ID": "diez2010robust"
     }
   ],
   "conference": [],

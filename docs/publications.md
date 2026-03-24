@@ -5,7 +5,7 @@
   <div class="info-card">
     <h3><a href="journal/">Journal Articles</a></h3>
     <p>Peer-reviewed journal publications.</p>
-    <p><strong>42</strong> entries</p>
+    <p><strong>67</strong> entries</p>
   </div>
 
   <div class="info-card">

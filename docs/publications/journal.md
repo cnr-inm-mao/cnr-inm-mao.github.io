@@ -30,6 +30,40 @@ Peer-reviewed journal publications.
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
 </article>
+<article class="pub-item" data-year="2026" data-keywords="">
+  <div class="pub-title">High-fidelity computational fluid--structure interaction and physical analysis of flexible plate slamming</div>
+  <div class="pub-authors">R. Pellegrini, M. Diez, Z. Wang, F. Stern</div>
+  <div class="pub-venue"><i>Physics of Fluids, 38(1), 2026</i></div>
+  <div class="pub-meta"></div>
+  <div class="pub-links"><a class="pub-icon doi"
+               href="https://doi.org/10.1063/5.0303696"
+               target="_blank"
+               rel="noopener noreferrer"
+               title="DOI">
+               <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
+            </a><a class="pub-icon bibtex"
+               href="../assets/data/publications.bib#key-pellegrini2026high"
+               title="BibTeX">
+               <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
+            </a></div>
+</article>
+<article class="pub-item" data-year="2026" data-keywords="dmd">
+  <div class="pub-title">Data-driven uncertainty-aware seakeeping prediction of the Delft 372 catamaran using ensemble Hankel dynamic mode decomposition</div>
+  <div class="pub-authors">G. Palma, A. Serani, M. Diez</div>
+  <div class="pub-venue"><i>Journal of Hydrodynamics, 2026</i></div>
+  <div class="pub-meta"><span class="pub-tag">DMD</span></div>
+  <div class="pub-links"><a class="pub-icon doi"
+               href="https://doi.org/10.1007/s42241-026-0015-z"
+               target="_blank"
+               rel="noopener noreferrer"
+               title="DOI">
+               <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
+            </a><a class="pub-icon bibtex"
+               href="../assets/data/publications.bib#key-palma2026data"
+               title="BibTeX">
+               <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
+            </a></div>
+</article>
 </div>
 
 ## 2025
@@ -48,6 +82,23 @@ Peer-reviewed journal publications.
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
                href="../assets/data/publications.bib#key-palma2025asv"
+               title="BibTeX">
+               <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
+            </a></div>
+</article>
+<article class="pub-item" data-year="2025" data-keywords="">
+  <div class="pub-title">Physical analysis methods for planing hull turning circles</div>
+  <div class="pub-authors">Z. Wang, S. Park, C. Milano, Y. Sanada, D. O. Sarigul, F. Stern, A. Gunderson, J. Scherer, H. Yasukawa, M. Diez</div>
+  <div class="pub-venue"><i>Ocean engineering, 321, 120348, 2025</i></div>
+  <div class="pub-meta"></div>
+  <div class="pub-links"><a class="pub-icon doi"
+               href="https://doi.org/10.1016/j.oceaneng.2025.120348"
+               target="_blank"
+               rel="noopener noreferrer"
+               title="DOI">
+               <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
+            </a><a class="pub-icon bibtex"
+               href="../assets/data/publications.bib#key-wang2025physical"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -82,6 +133,23 @@ Peer-reviewed journal publications.
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
                href="../assets/data/publications.bib#key-serani2025extending"
+               title="BibTeX">
+               <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
+            </a></div>
+</article>
+<article class="pub-item" data-year="2025" data-keywords="">
+  <div class="pub-title">Digital twins for intelligent cities: the case study of Matera</div>
+  <div class="pub-authors">R. De Benedictis, A. Cesta, R. Pellegrini, M. Diez, D. M. Pinto, P. Ventura, G. Stecca, G. Felici, A. Scalas, M. Mortara, others</div>
+  <div class="pub-venue"><i>Journal of Reliable Intelligent Environments, 11(1), 6, 2025</i></div>
+  <div class="pub-meta"></div>
+  <div class="pub-links"><a class="pub-icon doi"
+               href="https://doi.org/10.1007/s40860-025-00245-"
+               target="_blank"
+               rel="noopener noreferrer"
+               title="DOI">
+               <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
+            </a><a class="pub-icon bibtex"
+               href="../assets/data/publications.bib#key-de2025digital"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -150,6 +218,23 @@ Peer-reviewed journal publications.
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
                href="../assets/data/publications.bib#key-palma2025fowt"
+               title="BibTeX">
+               <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
+            </a></div>
+</article>
+<article class="pub-item" data-year="2025" data-keywords="">
+  <div class="pub-title">A non-intrusive nonlinear structural ROM for partitioned two-way fluid--structure interaction computations</div>
+  <div class="pub-authors">R. Pellegrini, Z. Wang, F. Stern, M. Diez</div>
+  <div class="pub-venue"><i>Computer Methods in Applied Mechanics and Engineering, 437, 117736, 2025</i></div>
+  <div class="pub-meta"></div>
+  <div class="pub-links"><a class="pub-icon doi"
+               href="https://doi.org/10.1016/j.cma.2025.117736"
+               target="_blank"
+               rel="noopener noreferrer"
+               title="DOI">
+               <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
+            </a><a class="pub-icon bibtex"
+               href="../assets/data/publications.bib#key-pellegrini2025non"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -457,6 +542,23 @@ Peer-reviewed journal publications.
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
 </article>
+<article class="pub-item" data-year="2022" data-keywords="">
+  <div class="pub-title">Experimental and computational fluid-structure interaction analysis and optimization of deep-V planing-hull grillage panels subject to slamming loads--Part I: Regular waves</div>
+  <div class="pub-authors">M. Diez, E. J. Lee, E. L. Harrison, A. M. R. Powers, L. A. Snyder, M. J. Jiang, R. J. Bay, R. R. Lewis, E. R. Kubina, P. Mucha, others</div>
+  <div class="pub-venue"><i>Marine structures, 85, 103256, 2022</i></div>
+  <div class="pub-meta"></div>
+  <div class="pub-links"><a class="pub-icon doi"
+               href="https://doi.org/10.1016/j.marstruc.2022.103256"
+               target="_blank"
+               rel="noopener noreferrer"
+               title="DOI">
+               <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
+            </a><a class="pub-icon bibtex"
+               href="../assets/data/publications.bib#key-diez2022experimental"
+               title="BibTeX">
+               <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
+            </a></div>
+</article>
 <article class="pub-item" data-year="2022" data-keywords="multifidelity optimization surrogates">
   <div class="pub-title">Efficient initialization for multi-fidelity surrogate-based optimization</div>
   <div class="pub-authors">J. Wackers, R. Pellegrini, A. Serani, M. Visonneau, M. Diez</div>
@@ -603,6 +705,23 @@ Peer-reviewed journal publications.
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
 </article>
+<article class="pub-item" data-year="2020" data-keywords="uq">
+  <div class="pub-title">Accurate experimental benchmark study of a catamaran in regular and irregular head waves including uncertainty quantification</div>
+  <div class="pub-authors">D. Durante, R. Broglia, M. Diez, A. Olivieri, E. Campana, F. Stern</div>
+  <div class="pub-venue"><i>Ocean Engineering, 195, 106685, 2020</i></div>
+  <div class="pub-meta"><span class="pub-tag">UQ</span></div>
+  <div class="pub-links"><a class="pub-icon doi"
+               href="https://doi.org/10.1016/j.oceaneng.2019.106685"
+               target="_blank"
+               rel="noopener noreferrer"
+               title="DOI">
+               <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
+            </a><a class="pub-icon bibtex"
+               href="../assets/data/publications.bib#key-durante2020accurate"
+               title="BibTeX">
+               <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
+            </a></div>
+</article>
 </div>
 
 ## 2019
@@ -647,6 +766,40 @@ Peer-reviewed journal publications.
 ## 2018
 
 <div class="pub-list">
+<article class="pub-item" data-year="2018" data-keywords="uq">
+  <div class="pub-title">Stochastic optimization methods for ship resistance and operational efficiency via CFD: M. Diez et al.</div>
+  <div class="pub-authors">M. Diez, E. F. Campana, F. Stern</div>
+  <div class="pub-venue"><i>Structural and Multidisciplinary Optimization, 57(2), 735--758, 2018</i></div>
+  <div class="pub-meta"><span class="pub-tag">UQ</span></div>
+  <div class="pub-links"><a class="pub-icon doi"
+               href="https://doi.org/10.1007/s00158-017-1775-4"
+               target="_blank"
+               rel="noopener noreferrer"
+               title="DOI">
+               <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
+            </a><a class="pub-icon bibtex"
+               href="../assets/data/publications.bib#key-diez2018stochastic"
+               title="BibTeX">
+               <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
+            </a></div>
+</article>
+<article class="pub-item" data-year="2018" data-keywords="uq">
+  <div class="pub-title">Statistical assessment and validation of experimental and computational ship response in irregular waves</div>
+  <div class="pub-authors">M. Diez, R. Broglia, D. Durante, A. Olivieri, E. F. Campana, F. Stern</div>
+  <div class="pub-venue"><i>Journal of Verification, Validation and Uncertainty Quantification, 3(2), 021004, 2018</i></div>
+  <div class="pub-meta"><span class="pub-tag">UQ</span></div>
+  <div class="pub-links"><a class="pub-icon doi"
+               href="https://doi.org/10.1115/1.4041372"
+               target="_blank"
+               rel="noopener noreferrer"
+               title="DOI">
+               <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
+            </a><a class="pub-icon bibtex"
+               href="../assets/data/publications.bib#key-diez2018statistical"
+               title="BibTeX">
+               <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
+            </a></div>
+</article>
 <article class="pub-item" data-year="2018" data-keywords="optimization ships">
   <div class="pub-title">A Multiobjective DIRECT algorithm for ship hull optimization</div>
   <div class="pub-authors">E. F. Campana, M. Diez, G. Liuzzi, S. Lucidi, R. Pellegrini, V. Piccialli, F. Rinaldi, A. Serani</div>
@@ -669,6 +822,23 @@ Peer-reviewed journal publications.
 ## 2017
 
 <div class="pub-list">
+<article class="pub-item" data-year="2017" data-keywords="uq">
+  <div class="pub-title">Statistical approach for computational fluid dynamics state-of-the-art assessment: N-version verification and validation</div>
+  <div class="pub-authors">F. Stern, M. Diez, H. Sadat-Hosseini, H. Yoon, F. Quadvlieg</div>
+  <div class="pub-venue"><i>Journal of Verification, Validation and Uncertainty Quantification, 2(3), 031004, 2017</i></div>
+  <div class="pub-meta"><span class="pub-tag">UQ</span></div>
+  <div class="pub-links"><a class="pub-icon doi"
+               href="https://doi.org/10.1115/1.4038255"
+               target="_blank"
+               rel="noopener noreferrer"
+               title="DOI">
+               <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
+            </a><a class="pub-icon bibtex"
+               href="../assets/data/publications.bib#key-stern2017statistical"
+               title="BibTeX">
+               <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
+            </a></div>
+</article>
 <article class="pub-item" data-year="2017" data-keywords="pso optimization">
   <div class="pub-title">Formulation and parameter selection in multi-objective deterministic particle swarm for simulation-based optimization</div>
   <div class="pub-authors">R. Pellegrini, A. Serani, C. Leotardi, U. Iemma, E. F. Campana, M. Diez</div>
@@ -682,6 +852,23 @@ Peer-reviewed journal publications.
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
                href="../assets/data/publications.bib#key-pellegrini2017pso"
+               title="BibTeX">
+               <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
+            </a></div>
+</article>
+<article class="pub-item" data-year="2017" data-keywords="">
+  <div class="pub-title">Composite bottom panel slamming of a fast planing hull via tightly coupled fluid-structure interaction simulations and sea trials</div>
+  <div class="pub-authors">S. Volpi, M. Diez, H. Sadat-Hosseini, D. H. Kim, F. Stern, R. Thodal, J. Grenestedt</div>
+  <div class="pub-venue"><i>Ocean engineering, 143, 240--258, 2017</i></div>
+  <div class="pub-meta"></div>
+  <div class="pub-links"><a class="pub-icon doi"
+               href="https://doi.org/10.1016/j.oceaneng.2017.07.053"
+               target="_blank"
+               rel="noopener noreferrer"
+               title="DOI">
+               <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
+            </a><a class="pub-icon bibtex"
+               href="../assets/data/publications.bib#key-volpi2017composite"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
@@ -747,6 +934,74 @@ Peer-reviewed journal publications.
 ## 2015
 
 <div class="pub-list">
+<article class="pub-item" data-year="2015" data-keywords="">
+  <div class="pub-title">Recent progress in CFD for naval architecture and ocean engineering</div>
+  <div class="pub-authors">F. Stern, Z. Wang, J. Yang, H. Sadat-Hosseini, M. Mousaviraad, S. Bhushan, M. Diez, Y. Sung-Hwan, P. C. Wu, S. M. Yeon, others</div>
+  <div class="pub-venue"><i>Journal of Hydrodynamics, 27(1), 1--23, 2015</i></div>
+  <div class="pub-meta"></div>
+  <div class="pub-links"><a class="pub-icon doi"
+               href="https://doi.org/10.1016/S1001-6058(15)60452-8"
+               target="_blank"
+               rel="noopener noreferrer"
+               title="DOI">
+               <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
+            </a><a class="pub-icon bibtex"
+               href="../assets/data/publications.bib#key-stern2015recent"
+               title="BibTeX">
+               <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
+            </a></div>
+</article>
+<article class="pub-item" data-year="2015" data-keywords="">
+  <div class="pub-title">High-fidelity global optimization of shape design by dimensionality reduction, metamodels and deterministic particle swarm</div>
+  <div class="pub-authors">X. Chen, M. Diez, M. Kandasamy, Z. Zhang, E. F. Campana, F. Stern</div>
+  <div class="pub-venue"><i>Engineering Optimization, 47(4), 473--494, 2015</i></div>
+  <div class="pub-meta"></div>
+  <div class="pub-links"><a class="pub-icon doi"
+               href="https://doi.org/10.1080/0305215X.2014.895340"
+               target="_blank"
+               rel="noopener noreferrer"
+               title="DOI">
+               <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
+            </a><a class="pub-icon bibtex"
+               href="../assets/data/publications.bib#key-chen2015high"
+               title="BibTeX">
+               <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
+            </a></div>
+</article>
+<article class="pub-item" data-year="2015" data-keywords="pme uq">
+  <div class="pub-title">Development and validation of a dynamic metamodel based on stochastic radial basis functions and uncertainty quantification</div>
+  <div class="pub-authors">S. Volpi, M. Diez, N. J. Gaul, H. Song, U. Iemma, K. Choi, E. F. Campana, F. Stern</div>
+  <div class="pub-venue"><i>Structural and Multidisciplinary Optimization, 51(2), 347--368, 2015</i></div>
+  <div class="pub-meta"><span class="pub-tag">PME</span><span class="pub-tag">UQ</span></div>
+  <div class="pub-links"><a class="pub-icon doi"
+               href="https://doi.org/10.1007/s00158-014-1128-5"
+               target="_blank"
+               rel="noopener noreferrer"
+               title="DOI">
+               <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
+            </a><a class="pub-icon bibtex"
+               href="../assets/data/publications.bib#key-volpi2015development"
+               title="BibTeX">
+               <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
+            </a></div>
+</article>
+<article class="pub-item" data-year="2015" data-keywords="pme">
+  <div class="pub-title">Design-space dimensionality reduction in shape optimization by Karhunen--Lo{\`e}ve expansion</div>
+  <div class="pub-authors">M. Diez, E. F. Campana, F. Stern</div>
+  <div class="pub-venue"><i>Computer Methods in Applied Mechanics and Engineering, 283, 1525--1544, 2015</i></div>
+  <div class="pub-meta"><span class="pub-tag">PME</span></div>
+  <div class="pub-links"><a class="pub-icon doi"
+               href="https://doi.org/10.1016/j.cma.2014.10.042"
+               target="_blank"
+               rel="noopener noreferrer"
+               title="DOI">
+               <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
+            </a><a class="pub-icon bibtex"
+               href="../assets/data/publications.bib#key-diez2015design"
+               title="BibTeX">
+               <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
+            </a></div>
+</article>
 <article class="pub-item" data-year="2015" data-keywords="optimization ships">
   <div class="pub-title">Derivative-free global ship design optimization using global/local hybridization of the DIRECT algorithm</div>
   <div class="pub-authors">E. F. Campana, M. Diez, U. Iemma, G. Liuzzi, S. Lucidi, F. Rinaldi, A. Serani</div>
@@ -760,6 +1015,201 @@ Peer-reviewed journal publications.
                <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
             </a><a class="pub-icon bibtex"
                href="../assets/data/publications.bib#key-campana2015directglobal"
+               title="BibTeX">
+               <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
+            </a></div>
+</article>
+</div>
+
+## 2014
+
+<div class="pub-list">
+<article class="pub-item" data-year="2014" data-keywords="uq">
+  <div class="pub-title">Uncertainty quantification of Delft catamaran resistance, sinkage and trim for variable Froude number and geometry using metamodels, quadrature and Karhunen--Lo{\`e}ve expansion</div>
+  <div class="pub-authors">M. Diez, W. He, E. F. Campana, F. Stern</div>
+  <div class="pub-venue"><i>Journal of Marine Science and Technology, 19(2), 143--169, 2014</i></div>
+  <div class="pub-meta"><span class="pub-tag">UQ</span></div>
+  <div class="pub-links"><a class="pub-icon doi"
+               href="https://doi.org/10.1007/s00773-013-0235-0"
+               target="_blank"
+               rel="noopener noreferrer"
+               title="DOI">
+               <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
+            </a><a class="pub-icon bibtex"
+               href="../assets/data/publications.bib#key-diez2014uncertainty"
+               title="BibTeX">
+               <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
+            </a></div>
+</article>
+</div>
+
+## 2013
+
+<div class="pub-list">
+<article class="pub-item" data-year="2013" data-keywords="uq">
+  <div class="pub-title">URANS study of Delft catamaran total/added resistance, motions and slamming loads in head sea including irregular wave and uncertainty quantification for variable regular wave and geometry</div>
+  <div class="pub-authors">W. He, M. Diez, Z. Zou, E. F. Campana, F. Stern</div>
+  <div class="pub-venue"><i>Ocean Engineering, 74, 189--217, 2013</i></div>
+  <div class="pub-meta"><span class="pub-tag">UQ</span></div>
+  <div class="pub-links"><a class="pub-icon doi"
+               href="https://doi.org/10.1016/j.oceaneng.2013.06.020"
+               target="_blank"
+               rel="noopener noreferrer"
+               title="DOI">
+               <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
+            </a><a class="pub-icon bibtex"
+               href="../assets/data/publications.bib#key-he2013urans"
+               title="BibTeX">
+               <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
+            </a></div>
+</article>
+<article class="pub-item" data-year="2013" data-keywords="">
+  <div class="pub-title">Ship optimization by globally convergent modification of PSO by a surrogate-based Newton method</div>
+  <div class="pub-authors">D. Peri, M. Diez</div>
+  <div class="pub-venue"><i>Engineering Computations, 30(4), 548--561, 2013</i></div>
+  <div class="pub-meta"></div>
+  <div class="pub-links"><a class="pub-icon doi"
+               href="https://doi.org/10.1108/02644401311329361"
+               target="_blank"
+               rel="noopener noreferrer"
+               title="DOI">
+               <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
+            </a><a class="pub-icon bibtex"
+               href="../assets/data/publications.bib#key-peri2013ship"
+               title="BibTeX">
+               <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
+            </a></div>
+</article>
+<article class="pub-item" data-year="2013" data-keywords="uq">
+  <div class="pub-title">Framework for convergence and validation of stochastic uncertainty quantification and relationship to deterministic verification and validation</div>
+  <div class="pub-authors">S. M. Mousaviraad, W. He, M. Diez, F. Stern</div>
+  <div class="pub-venue"><i>International Journal for Uncertainty Quantification, 3(5), 2013</i></div>
+  <div class="pub-meta"><span class="pub-tag">UQ</span></div>
+  <div class="pub-links"><a class="pub-icon doi"
+               href="https://doi.org/10.1615/Int.J.UncertaintyQuantification.2012003594"
+               target="_blank"
+               rel="noopener noreferrer"
+               title="DOI">
+               <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
+            </a><a class="pub-icon bibtex"
+               href="../assets/data/publications.bib#key-mousaviraad2013framework"
+               title="BibTeX">
+               <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
+            </a></div>
+</article>
+<article class="pub-item" data-year="2013" data-keywords="">
+  <div class="pub-title">A one-dimensional polynomial chaos method in CFD--Based uncertainty quanti-fication for ship hydrodynamic performance</div>
+  <div class="pub-authors">H. Wei, D. Matteo, Z. Zao-jian, others</div>
+  <div class="pub-venue"><i>Journal of Hydrodynamics, Ser. B, 25(5), 655--662, 2013</i></div>
+  <div class="pub-meta"></div>
+  <div class="pub-links"><a class="pub-icon doi"
+               href="https://doi.org/10.1016/S1001-6058(13)60410-2"
+               target="_blank"
+               rel="noopener noreferrer"
+               title="DOI">
+               <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
+            </a><a class="pub-icon bibtex"
+               href="../assets/data/publications.bib#key-wei2013one"
+               title="BibTeX">
+               <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
+            </a></div>
+</article>
+</div>
+
+## 2012
+
+<div class="pub-list">
+<article class="pub-item" data-year="2012" data-keywords="">
+  <div class="pub-title">Optimal hull-form design subject to epistemic uncertainty</div>
+  <div class="pub-authors">M. Diez, D. Peri</div>
+  <div class="pub-venue"><i>Ship Technology Research, 59(1), 14--20, 2012</i></div>
+  <div class="pub-meta"></div>
+  <div class="pub-links"><a class="pub-icon doi"
+               href="https://doi.org/10.1179/str.2012.59.1.002"
+               target="_blank"
+               rel="noopener noreferrer"
+               title="DOI">
+               <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
+            </a><a class="pub-icon bibtex"
+               href="../assets/data/publications.bib#key-diez2012optimal"
+               title="BibTeX">
+               <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
+            </a></div>
+</article>
+<article class="pub-item" data-year="2012" data-keywords="">
+  <div class="pub-title">Hydroelastic optimization of a keel fin of a sailing boat: a multidisciplinary robust formulation for ship design</div>
+  <div class="pub-authors">M. Diez, D. Peri, G. Fasano, E. F. Campana</div>
+  <div class="pub-venue"><i>Structural and Multidisciplinary Optimization, 46(4), 613--625, 2012</i></div>
+  <div class="pub-meta"></div>
+  <div class="pub-links"><a class="pub-icon doi"
+               href="https://doi.org/10.1007/s00158-012-0783-7"
+               target="_blank"
+               rel="noopener noreferrer"
+               title="DOI">
+               <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
+            </a><a class="pub-icon bibtex"
+               href="../assets/data/publications.bib#key-diez2012hydroelastic"
+               title="BibTeX">
+               <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
+            </a></div>
+</article>
+</div>
+
+## 2011
+
+<div class="pub-list">
+<article class="pub-item" data-year="2011" data-keywords="">
+  <div class="pub-title">A New Parameterisation Approach for Mixed-Integer Optimisation</div>
+  <div class="pub-authors">D. Peri, M. Diez</div>
+  <div class="pub-venue"><i>Ship Technology Research, 58(2), 100--110, 2011</i></div>
+  <div class="pub-meta"></div>
+  <div class="pub-links"><a class="pub-icon doi"
+               href="https://doi.org/10.1179/str.2011.58.2.004"
+               target="_blank"
+               rel="noopener noreferrer"
+               title="DOI">
+               <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
+            </a><a class="pub-icon bibtex"
+               href="../assets/data/publications.bib#key-peri2011new"
+               title="BibTeX">
+               <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
+            </a></div>
+</article>
+</div>
+
+## 2010
+
+<div class="pub-list">
+<article class="pub-item" data-year="2010" data-keywords="">
+  <div class="pub-title">Robust optimization for ship conceptual design</div>
+  <div class="pub-authors">M. Diez, D. Peri</div>
+  <div class="pub-venue"><i>Ocean Engineering, 37(11-12), 966--977, 2010</i></div>
+  <div class="pub-meta"></div>
+  <div class="pub-links"><a class="pub-icon doi"
+               href="https://doi.org/10.1016/j.oceaneng.2010.03.010"
+               target="_blank"
+               rel="noopener noreferrer"
+               title="DOI">
+               <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
+            </a><a class="pub-icon bibtex"
+               href="../assets/data/publications.bib#key-diez2010robust"
+               title="BibTeX">
+               <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
+            </a></div>
+</article>
+<article class="pub-item" data-year="2010" data-keywords="">
+  <div class="pub-title">Robust decision making in aerial and marine vehicles optimization: a designer&#x27;s viewpoint</div>
+  <div class="pub-authors">M. Diez, D. Peri, E. F. Campana, U. Iemma</div>
+  <div class="pub-venue"><i>Enterprise Risk Management, 2(1), 68, 2010</i></div>
+  <div class="pub-meta"></div>
+  <div class="pub-links"><a class="pub-icon doi"
+               href="https://doi.org/10.5296/erm.v2i1.323"
+               target="_blank"
+               rel="noopener noreferrer"
+               title="DOI">
+               <img src="../../assets/icons/doi.svg" alt="DOI" width="14" height="14">
+            </a><a class="pub-icon bibtex"
+               href="../assets/data/publications.bib#key-diez2010robust"
                title="BibTeX">
                <img src="../../assets/icons/bibtex.svg" alt="BibTeX" width="16" height="16">
             </a></div>
