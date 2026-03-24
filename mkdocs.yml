@@ -29,10 +29,10 @@ nav:
   - Projects: projects.md
   - Software: software.md
   - Publications:
-    - Overview: publications.md
-    - Journal Articles: publications/journal.md
-    - Conference Proceedings: publications/conference.md
-    - Books & Chapters: publications/books.md
+      - Overview: publications.md
+      - Journal Articles: publications/journal.md
+      - Conference Proceedings: publications/conference.md
+      - Books & Chapters: publications/books.md
   - Datasets: datasets.md
   - Opportunities: opportunities.md
   - Contact: contact.md
@@ -47,3 +47,6 @@ markdown_extensions:
 
 extra_css:
   - assets/css/extra.css
+
+extra_javascript:
+  - assets/js/publications.js
