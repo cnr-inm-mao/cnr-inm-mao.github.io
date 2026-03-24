@@ -234,6 +234,7 @@
 
 .icon-badge.github:hover {
   background: #eef1f4;
+  border-color: var(--mao-card-border);
 }
 
 .icon-badge.linkedin:hover {
