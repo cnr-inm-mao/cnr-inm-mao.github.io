@@ -4,11 +4,18 @@ title: Contact
 
 # Contact
 
-## MAO Research Group  
-CNR-INM — Institute of Marine Engineering  
-National Research Council of Italy  
+<div style="display:flex; align-items:center; gap:1.2rem; flex-wrap:wrap; margin-bottom:1.2rem;">
 
-Rome, Italy
+  <img src="../assets/logos/inm.png" alt="CNR-INM logo" style="height:70px;">
+
+  <div>
+    <strong>MAO Research Group</strong><br>
+    CNR-INM — Institute of Marine Engineering<br>
+    National Research Council of Italy<br>
+    Rome, Italy
+  </div>
+
+</div>
 
 ---
 
@@ -37,15 +44,12 @@ Rome, Italy
 
 ## Contact information
 
-**Email**  
-[mao@email.it](mailto:mao@email.it)
-
 **Address**  
 Via di Vallerano 139  
 00128 Rome, Italy  
 
 **Website**  
-https://www.inm.cnr.it  
+[https://www.inm.cnr.it](https://www.inm.cnr.it)  
 
 ---
 
