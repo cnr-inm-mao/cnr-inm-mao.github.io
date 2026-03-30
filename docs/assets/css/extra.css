@@ -421,9 +421,14 @@
   width: 18px;
   height: 18px;
   vertical-align: middle;
+  filter: invert(1);
   opacity: 0.9;
 }
 
 .footer-icons a:hover img {
   opacity: 1;
+}
+
+.footer-icons {
+  color: white;
 }
