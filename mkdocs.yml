@@ -6,6 +6,7 @@ use_directory_urls: true
 theme:
   name: material
   language: en
+  costume_dir: docs/overrides
 
   logo: assets/logos/logo-icon.png
   favicon: assets/logos/logo-icon.png
@@ -57,3 +58,4 @@ extra_css:
 
 extra_javascript:
   - assets/js/publications.js
+
