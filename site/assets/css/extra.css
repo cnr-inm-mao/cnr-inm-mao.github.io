@@ -227,14 +227,14 @@
   border-color: var(--mao-accent);
 }
 
-/* Brand-aware hover (più premium) */
-
+/* Brand-aware hover */
 .icon-badge.scholar:hover {
   background: #e8f0fe;
 }
 
 .icon-badge.github:hover {
-  background: #111827;
+  background: #eef1f4;
+  border-color: var(--mao-card-border);
 }
 
 .icon-badge.linkedin:hover {
@@ -245,7 +245,12 @@
   background: #e8f5e9;
 }
 
+.icon-badge.email:hover {
+  background: #fef3f2;
+}
+
 /* Publications */
+
 .pub-toolbar {
   display: flex;
   flex-wrap: wrap;
@@ -358,6 +363,8 @@
   background: var(--mao-bg-soft);
   border: 1px solid var(--mao-card-border);
   transition: all 0.2s ease;
+  overflow: hidden;
+  flex: 0 0 34px;
 }
 
 .pub-icon:hover {
@@ -367,14 +374,19 @@
 }
 
 .pub-icon img {
-  width: 18px;
-  height: 18px;
+  display: block;
+  width: 16px !important;
+  height: 16px !important;
+  max-width: 16px !important;
+  max-height: 16px !important;
   object-fit: contain;
 }
 
 .pub-icon.doi img {
-  width: 14px;
-  height: 14px;
+  width: 14px !important;
+  height: 14px !important;
+  max-width: 14px !important;
+  max-height: 14px !important;
 }
 
 .pub-icon.bibtex:hover {

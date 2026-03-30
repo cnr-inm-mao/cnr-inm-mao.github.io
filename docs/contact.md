@@ -52,4 +52,4 @@ title: Contact
 ## Get in touch
 
 For research collaborations, PhD opportunities, or general inquiries,  
-please contact the core staff directly via the [People](../people/) page.
+please contact the core staff directly via the [People](people.md) page.

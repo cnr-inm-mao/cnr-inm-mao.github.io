@@ -35,7 +35,7 @@ These datasets share a common structure:
 - RAE2822 airfoil  
 - DTMB 5415 hull  
 
-👉 [Explore dimensionality reduction datasets](datasets_dimensionality_reduction.md)
+👉 [Explore dimensionality reduction datasets](dr.md)
 
 ---
 
@@ -53,7 +53,7 @@ These datasets are suitable for:
 
 - Ship motion time-series dataset  
 
-👉 [Explore time-series datasets](datasets_time_series.md)
+👉 [Explore time-series datasets](ts.md)
 
 ---
 
