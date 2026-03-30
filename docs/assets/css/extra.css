@@ -396,3 +396,34 @@
 .pub-icon.doi:hover {
   background: #eef6ff;
 }
+
+.md-copyright {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.md-copyright a {
+  text-decoration: none;
+}
+
+.footer-icons {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-left: 0.4rem;
+}
+
+.footer-icons img {
+  width: 18px;
+  height: 18px;
+  vertical-align: middle;
+  opacity: 0.9;
+}
+
+.footer-icons a:hover img {
+  opacity: 1;
+}
