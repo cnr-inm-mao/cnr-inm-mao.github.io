@@ -413,22 +413,16 @@
 .footer-icons {
   display: inline-flex;
   align-items: center;
-  gap: 0.5rem;
-  margin-left: 0.4rem;
+  gap: 0.6rem;
+  margin-left: 0.5rem;
 }
 
 .footer-icons img {
   width: 18px;
   height: 18px;
-  vertical-align: middle;
-  filter: invert(1);
   opacity: 0.9;
 }
 
 .footer-icons a:hover img {
   opacity: 1;
-}
-
-.footer-icons {
-  color: white;
 }
