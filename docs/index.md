@@ -81,8 +81,14 @@ Applications to ships, propellers, underwater vehicles, airfoils, and advanced t
 
 <div class="info-card">
 <h3>Datasets</h3>
-<p>Research datasets for dimensionality reduction, optimization, and computational benchmarking.</p>
-<p><a href="datasets/">Explore datasets →</a></p>
+<p>
+Research datasets for dimensionality reduction, optimization, and computational benchmarking.
+Available via our Zenodo collection.
+</p>
+<p>
+<a href="datasets/">Explore datasets →</a><br>
+<a href="https://zenodo.org/communities/cnr-inm-mao/">View on Zenodo →</a>
+</p>
 </div>
 
 <div class="info-card">

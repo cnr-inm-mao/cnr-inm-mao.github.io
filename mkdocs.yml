@@ -12,7 +12,6 @@ theme:
 
   features:
     - navigation.sections
-    - navigation.expand
     - navigation.top
     - content.code.copy
     - search.suggest
@@ -33,7 +32,16 @@ nav:
       - Journal Articles: publications/journal.md
       - Conference Proceedings: publications/conference.md
       - Books & Chapters: publications/books.md
-  - Datasets: datasets.md
+  - Datasets:
+      - Overview: datasets/index.md
+      - Dimensionality Reduction:
+          - Overview: datasets/dr.md
+          - Glider Benchmark: datasets/dr_glider.md
+          - RAE2822 Airfoil: datasets/dr_rae2822.md
+          - DTMB 5415 Hull: datasets/dr_5415.md
+      - Time Series:
+          - Overview: datasets/ts.md
+          - CK14-e ASV: datasets/ts_ck14.md
   - Opportunities: opportunities.md
   - Contact: contact.md
 
