@@ -22,33 +22,33 @@ The toolkit supports reproducible workflows for engineering design optimization 
 - unified MATLAB and Python implementations  
 - standardized input/output configuration (JSON-based workflows)  
 
-## Example: PME Modes
-
-<p style="text-align:center; margin-bottom:0.5rem;">
-  Example of first three PI-PME modes 
-  <a href="../../datasets/dr_glider/">(glider dataset)</a>
+<p style="text-align:center; margin-bottom:0.5rem; font-size:0.9rem; opacity:0.8;">
+  <em>
+    Example of first three PI-PME modes 
+    <a href="../../datasets/dr_glider/">(glider dataset)</a>
+  </em>
 </p>
-<div class="video-row">
+<div style="display:flex; gap:1rem; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin:1.5rem 0;">
 
-  <div class="video-item">
-    <video autoplay loop muted playsinline>
+  <div style="text-align:center; width:220px;">
+    <video autoplay loop muted playsinline style="width:220px; max-width:100%; border-radius:8px;">
       <source src="../../assets/videos/aug_mode1.mp4" type="video/mp4">
     </video>
-    <p>Mode 1</p>
+    <p style="margin-top:0.3rem; font-size:0.9rem; opacity:0.7;">Mode 1</p>
   </div>
 
-  <div class="video-item">
-    <video autoplay loop muted playsinline>
+  <div style="text-align:center; width:220px;">
+    <video autoplay loop muted playsinline style="width:220px; max-width:100%; border-radius:8px;">
       <source src="../../assets/videos/aug_mode2.mp4" type="video/mp4">
     </video>
-    <p>Mode 2</p>
+    <p style="margin-top:0.3rem; font-size:0.9rem; opacity:0.7;">Mode 2</p>
   </div>
 
-  <div class="video-item">
-    <video autoplay loop muted playsinline>
+  <div style="text-align:center; width:220px;">
+    <video autoplay loop muted playsinline style="width:220px; max-width:100%; border-radius:8px;">
       <source src="../../assets/videos/aug_mode3.mp4" type="video/mp4">
     </video>
-    <p>Mode 3</p>
+    <p style="margin-top:0.3rem; font-size:0.9rem; opacity:0.7;">Mode 3</p>
   </div>
 
 </div>
