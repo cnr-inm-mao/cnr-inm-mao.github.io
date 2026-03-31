@@ -4,7 +4,13 @@
 
 Benchmark dataset for aerodynamic shape optimization and dimensionality reduction based on the RAE2822 airfoil.
 
-**DOI**: [https://zenodo.org/records/18958555](https://zenodo.org/records/18958555)  
+**DOI**: [https://zenodo.org/records/18958555](https://zenodo.org/records/18958555)
+
+<div style="text-align:center; margin:1.5rem 0;">
+  <video width="600" autoplay loop muted playsinline>
+    <source src="../../assets/videos/rae_samples.mp4" type="video/mp4">
+  </video>
+</div>  
 
 ---
 
