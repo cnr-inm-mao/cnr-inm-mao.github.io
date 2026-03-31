@@ -27,7 +27,6 @@ nav:
   - Research: research.md
   - Projects:
     - Overview: projects/index.md
-    - International:
     - National:
       - BIODRONES: projects/biodrones.md
   - Software:
