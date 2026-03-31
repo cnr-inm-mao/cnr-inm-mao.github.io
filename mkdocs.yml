@@ -25,8 +25,12 @@ nav:
   - Home: index.md
   - People: people.md
   - Research: research.md
-  - Projects: projects.md
-  - Software: software.md
+  - Projects:
+    - Overview: projects/index.md
+    - BIODRONES: projects/biodrones.md
+  - Software:
+    - Overview: software/index.md
+    - PME-toolkit: software/pme-toolkit.md
   - Publications:
       - Overview: publications/index.md
       - Journal Articles: publications/journal.md

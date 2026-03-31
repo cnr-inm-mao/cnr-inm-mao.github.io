@@ -6,8 +6,7 @@ Experimental dataset collected during a campaign conducted at the CNR-INM "Emili
 
 The dataset includes **raw and processed time-series data**, as well as synchronized experimental videos.
 
-**DOI**: https://zenodo.org/records/17315035  
-**Repository**: https://zenodo.org/records/17315035  
+**DOI**: [https://zenodo.org/records/17315035](https://zenodo.org/records/17315035)  
 
 ---
 
