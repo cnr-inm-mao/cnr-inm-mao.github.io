@@ -22,6 +22,37 @@ The toolkit supports reproducible workflows for engineering design optimization 
 - unified MATLAB and Python implementations  
 - standardized input/output configuration (JSON-based workflows)  
 
+## Example: PME Modes
+
+<p style="text-align:center; margin-bottom:0.5rem;">
+  Example of First three PI-PME modes [glider dataset](../datasets/dr_glider.md)
+</p>
+
+<div class="video-row">
+
+  <div class="video-item">
+    <video autoplay loop muted playsinline>
+      <source src="../../assets/videos/aug_mode1.mp4" type="video/mp4">
+    </video>
+    <p>Mode 1</p>
+  </div>
+
+  <div class="video-item">
+    <video autoplay loop muted playsinline>
+      <source src="../../assets/videos/aug_mode2.mp4" type="video/mp4">
+    </video>
+    <p>Mode 2</p>
+  </div>
+
+  <div class="video-item">
+    <video autoplay loop muted playsinline>
+      <source src="../../assets/videos/aug_mode3.mp4" type="video/mp4">
+    </video>
+    <p>Mode 3</p>
+  </div>
+
+</div>
+
 ---
 
 ## Capabilities
