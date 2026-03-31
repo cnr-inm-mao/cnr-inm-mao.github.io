@@ -27,7 +27,9 @@ nav:
   - Research: research.md
   - Projects:
     - Overview: projects/index.md
-    - BIODRONES: projects/biodrones.md
+    - International:
+    - National:
+      - BIODRONES: projects/biodrones.md
   - Software:
     - Overview: software/index.md
     - PME-toolkit: software/pme-toolkit.md
