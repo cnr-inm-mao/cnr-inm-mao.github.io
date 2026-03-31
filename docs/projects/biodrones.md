@@ -1,6 +1,6 @@
 # BIODRONES
 
-<div style="text-align:center; margin-bottom:1.5rem;">
+<div style="text-align:left; margin-bottom:1.5rem;">
   <img src="../../assets/logos/projects/logo-biodrones.png" width="260" alt="BIODRONES logo">
 </div>
 

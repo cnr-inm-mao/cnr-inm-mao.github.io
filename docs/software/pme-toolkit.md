@@ -1,6 +1,6 @@
 # PME-toolkit
 
-<div style="text-align:center; margin-bottom:1rem;">
+<div style="text-align:left; margin-bottom:1rem;">
   <a href="https://github.com/cnr-inm-mao/pme-toolkit">
     <img src="../../assets/logos/logo-pmetk.png" width="240">
   </a>
