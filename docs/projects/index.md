@@ -34,16 +34,16 @@ When available, project-specific external websites are linked from the correspon
 
 ## Past Projects
 
-<div class="project-grid">
+<div class="projects-grid">
 
-<a class="project-card" href="biodrones/">
-  <div class="project-card-logo">
+<a class="project-item" href="biodrones/">
+  <div class="project-logo">
     <img src="../assets/logos/projects/logo-biodrones.png" alt="BIODRONES logo">
   </div>
-  <div class="project-card-body">
-    <h3>BIODRONES</h3>
-    <p class="project-dates">2023–2025</p>
-    <p>Biomimetic and Innovative Optimized hydrodynamic concepts of high-efficiency underwater gliding DRONES for ocean research..</p>
+  <div class="project-info">
+    <strong>BIODRONES</strong><br>
+    <span class="project-dates">2023–2025</span><br>
+    <span class="project-desc">Bio-inspired underwater gliders</span>
   </div>
 </a>
 
