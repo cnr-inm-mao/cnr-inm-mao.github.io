@@ -1,7 +1,7 @@
 # BIODRONES
 
 <div style="text-align:center; margin-bottom:1.5rem;">
-  <img src="../assets/logos/projects/logo-biodrones.png" width="260" alt="BIODRONES logo">
+  <img src="{{ 'assets/logos/projects/logo-biodrones.png' | url }}" width="260" alt="BIODRONES logo">
 </div>
 
 ## Overview

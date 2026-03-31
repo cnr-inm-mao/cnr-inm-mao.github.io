@@ -43,7 +43,7 @@ When available, project-specific external websites are linked from the correspon
   <div class="project-info">
     <strong>BIODRONES</strong><br>
     <span class="project-dates">2023–2025</span><br>
-    <span class="project-desc">Bio-inspired underwater gliders</span>
+    <span class="project-desc">Biomimetic and Innovative Optimized hydrodynamic concepts of high-efficiency underwater gliding DRONES for ocean research</span>
   </div>
 </a>
 
