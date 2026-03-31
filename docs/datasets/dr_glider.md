@@ -6,7 +6,13 @@ Benchmark dataset for dimensionality reduction and optimization of a bio-inspire
 
 The dataset is designed to support **PME-based methods**, surrogate modeling, and multi-fidelity optimization workflows.
 
-**DOI**: [https://zenodo.org/records/18936594](https://zenodo.org/records/18936594)  
+**DOI**: [https://zenodo.org/records/18936594](https://zenodo.org/records/18936594)
+
+<div style="text-align:center; margin:1.5rem 0;">
+  <video width="600" autoplay loop muted playsinline>
+    <source src="../../assets/videos/aug_samples.mp4" type="video/mp4">
+  </video>
+</div>  
 
 ---
 
