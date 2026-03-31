@@ -25,9 +25,9 @@ The toolkit supports reproducible workflows for engineering design optimization 
 ## Example: PME Modes
 
 <p style="text-align:center; margin-bottom:0.5rem;">
-  Example of First three PI-PME modes [glider dataset](../datasets/dr_glider.md)
+  Example of first three PI-PME modes 
+  <a href="../../datasets/dr_glider/">(glider dataset)</a>
 </p>
-
 <div class="video-row">
 
   <div class="video-item">
