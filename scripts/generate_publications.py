@@ -194,6 +194,8 @@ def render_page(kind: str, entries: list[dict]) -> str:
 def render_index(stats: dict[str, int]) -> str:
     return f'''# Publications
 
+## Overview
+
 <div class="card-grid">
 
   <div class="info-card">
@@ -241,9 +243,10 @@ def main() -> None:
         (PUBDIR / f"{kind}.md").write_text(render_page(kind, entries), encoding="utf-8")
         if path.exists():
             write_bib_index(path)
-    (DOCS / "publications.md").write_text(render_index(stats), encoding="utf-8")
+    (PUBDIR / "index.md").write_text(render_index(stats), encoding="utf-8")
     payload = {kind: [e for e in sort_entries(read_bib(path))] for kind, path in CATEGORY_MAP.items()}
     (ASSET_DATA / 'publications.json').write_text(json.dumps(payload, indent=2), encoding='utf-8')
+    print("Generated publication records: " + ", ".join(f"{kind}={count}" for kind, count in stats.items()))
 
 
 if __name__ == "__main__":
