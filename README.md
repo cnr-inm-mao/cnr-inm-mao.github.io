@@ -17,10 +17,11 @@ mkdocs.yml   # Site configuration
 
 ## Development
 
-To build the site locally:
+From the repository root, install the dependencies and regenerate the publication pages and data before starting a local preview:
 
 ```bash
-pip install mkdocs mkdocs-material
+pip install mkdocs mkdocs-material "bibtexparser>=1.4,<2"
+python scripts/generate_publications.py
 mkdocs serve
 ```
 
@@ -29,6 +30,15 @@ Then open:
 ```
 http://127.0.0.1:8000
 ```
+
+For a local production build:
+
+```bash
+python scripts/generate_publications.py
+mkdocs build
+```
+
+Publication records are maintained in `data/publications.bib`, `data/conference.bib`, and `data/books.bib`. Run `python scripts/generate_publications.py` again after changing these sources, including while `mkdocs serve` is running. The generator synchronizes the publication lists, overview counts, and BibTeX/JSON assets; MkDocs alone does not regenerate them. The GitHub Actions workflow runs this generation step automatically before building the site.
 
 ## License
 
